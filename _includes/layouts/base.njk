@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		
+		<title>{{ title or metadata.title }}</title>
+		
+		<meta name="description" content="{{ description or metadata.description }}">
+		
+		<link rel="stylesheet" type="text/css" href="{{ '/style/hot.css' | url }}" />
+		<link rel="stylesheet" type="text/css" href="{{ '/style/fonts.css' | url }}" />
+		
+		<link rel="shortcut icon" type="image/png" href="{{ '/style/assets/favicon.png' | url }}"/>
+		
+		<!--embed-->
+		<meta property="og:title" content="Re:Coding Algorithmic Culture">
+		<meta name="twitter:title" content="Re:Coding Algorithmic Culture">
+		
+		<meta property="og:site_name" content="Re:Coding Algorithmic Culture">
+		<meta property="og:url" content="//r-calc.net/">
+		
+		<meta property="og:image" content="//r-calc.net/ [TODO] ADD PICTURE HERE">
+		<meta name="twitter:image" content="//r-calc.net/ [TODO] ADD PICTURE HERE">
+
+	</head>
+	<body>
+		<header>
+			<h1><a href="{{ '/' | url }}">{{ metadata.title }}</a></h1>
+			
+			<ul class="nav">
+			{%- for entry in collections.blob %}
+				<li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}">
+					<a href="{{ entry.url | url }}">{{ entry.data.title }}</a>
+				</li>
+			{%- endfor %}
+			</ul>
+		</header>
+	
+		{{ content | safe }}
+	</body>
+</html>

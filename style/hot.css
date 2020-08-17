@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+html {
+    font-family: WorkSans, Helvetica, Arial, sans;
+	font-size: 1.2em;
+    line-height: 1.5;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+body {
+	padding: 0 0;
+	margin: 8em auto;
+	max-width: 40em;
+}
+
+@media (max-width: 40em) {
+	body {
+		margin: 0.5em 0.5em;
+	}
+}
+
+a {
+	color: #279b99;
+	text-decoration: none;
+}
+
+a:hover, a:active {
+	color: #000;
+	text-decoration: underline;
+}
+
+h1, h2, h3, h4, h5 {
+	font-family: Oddee-No1;
+	font-weight: 200;
+	margin-bottom: 1em;
+}
+
+ul, p {
+	margin-bottom: 2em;
+}
+
+::selection {
+	color: #279b99;
+	background-color: #000;
+}

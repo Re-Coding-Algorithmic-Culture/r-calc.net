@@ -1,0 +1,11 @@
+
+@font-face {
+    font-family: "Oddee-No1";
+    src: url("assets/fonts/Oddee-No1.eot");
+    src: url("assets/fonts/Oddee-No1.eot?#iefix") format("embedded-opentype"), url("assets/fonts/Oddee-No1.woff") format("woff"), url("assets/fonts/Oddee-No1.ttf") format("truetype"), url("assets/fonts/Oddee-No1.svg#webfont") format("svg");
+}
+
+@font-face {
+	font-family: "WorkSans";
+	src: url("assets/fonts/WorkSans-VariableFont_wght.ttf");
+}
