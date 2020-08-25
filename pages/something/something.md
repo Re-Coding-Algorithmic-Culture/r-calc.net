@@ -26,5 +26,7 @@ Over the next 1.5 years, the project participants will investigate the question 
 
 The application was submitted by Sociology of Diversity, University of Kassel, Gender/Diversity in Informatics Systems, University of Kassel and Visual Communiation, Kunsthochschule Kassel. Workers on the project (alphabetically) include: Claude Draude, Elisabeth Tuider, Eunice Njoki, Ipek Burçak, Isabel Paehr, Johanna Schaffer, Loren Britton, Nicole (voec), Pinar Tuzcu and Tom Fixemer.
 
-* [I'm an inline-style link](r-calc.net)  
-* [Test link](r-calc.net)
+This is a test
+
+* [I'm an inline-style link, http://r-calc.net](r-calc.net)  
+* [Test lin asdasdasd](r-calc.net)

@@ -57,7 +57,27 @@ img {
 	}
 }
 
+li {
+  list-style-type:none;
+  margin: 1em 0;
+}
+
+li:before {
+  content: "🧵"; /* bullet points */
+  padding-right: 1em;
+}
+
 ::selection {
 	color: #279b99;
 	background-color: #000;
+}
+
+ul.nav li {
+	display: inline;
+	margin: 0 2em 0 0;
+}
+
+ul.nav li:before {
+	content: "";
+	padding: 0;
 }
