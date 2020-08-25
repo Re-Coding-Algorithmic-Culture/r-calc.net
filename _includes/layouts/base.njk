@@ -13,7 +13,7 @@
 		
 		<link rel="shortcut icon" type="image/png" href="{{ '/style/assets/favicon.png' | url }}"/>
 		
-		<!--embed-->
+		<!-- embed -->
 		<meta property="og:title" content="Re:Coding Algorithmic Culture">
 		<meta name="twitter:title" content="Re:Coding Algorithmic Culture">
 		
@@ -39,7 +39,22 @@
 			{%- endfor %}
 			</ul>
 		</header>
+		
+		<main>
 	
 		{{ content | safe }}
+		
+		</main>
+		{% if page.url != '/' %}
+		<footer>
+			<div class="footer-content">
+			The re:Coding project was something something and ran from 20XX to 20XX. Link to impressum
+			</br>
+			</br>
+			VW LOGO?</br>
+			UNI LOGO? 💸💸💸
+			</div>
+		</footer>
+		{% endif %}
 	</body>
 </html>

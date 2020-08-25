@@ -11,13 +11,17 @@ html {
 
 body {
 	padding: 0 0;
-	margin: 8em auto;
+	margin: 0 0;
+}
+
+main, .footer-content {
+	margin: 0 auto;
 	max-width: 40em;
 }
 
 @media (max-width: 800px) {
-	body {
-		margin: 0.5em 0.5em;
+	main, .footer-content {
+		margin: 0 0.5em;
 	}
 }
 
@@ -80,4 +84,14 @@ ul.nav li {
 ul.nav li:before {
 	content: "";
 	padding: 0;
+}
+
+footer {
+	background-color: #521e4c;
+	margin-top: 16em;
+	color: #fff;
+}
+
+.footer-content {
+	padding: 4em 0;
 }
