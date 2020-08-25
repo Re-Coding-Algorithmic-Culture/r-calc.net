@@ -6,6 +6,7 @@ html {
     line-height: 1.5;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
+	overflow-x: hidden;
 }
 
 body {
@@ -14,7 +15,7 @@ body {
 	max-width: 40em;
 }
 
-@media (max-width: 40em) {
+@media (max-width: 800px) {
 	body {
 		margin: 0.5em 0.5em;
 	}
@@ -33,11 +34,27 @@ a:hover, a:active {
 h1, h2, h3, h4, h5 {
 	font-family: Oddee-No1;
 	font-weight: 200;
-	margin-bottom: 1em;
 }
 
-ul, p {
+h1, h2, h3, h4, h5, p {
+	margin-top: 2em;
 	margin-bottom: 2em;
+}
+img, ul {
+	margin-top: 8em;
+	margin-bottom: 8em;
+}
+	
+img {
+	width: 140%;
+	margin-left: -20%;
+}
+
+@media (max-width: 800px) {
+	img {
+		max-width: calc(100% + 1em);
+		margin: 0.5em -0.5em;
+	}
 }
 
 ::selection {
