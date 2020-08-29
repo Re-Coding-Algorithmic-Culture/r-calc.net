@@ -25,9 +25,10 @@
 
 	</head>
 	<body>
-		<header>
-			<!-- <h1><a href="{{ '/' | url }}">{{ metadata.title }}</a></h1> -->
+		<header {% if page.url == '/' %} class="index" {% endif %}>
+			<a href="{{ '/' | url }}">{{ metadata.title }}</a>
 			
+			<!--   this would be a navigation menu
 			<ul class="nav">
 				<li class="nav-item">
 					<a href="{{ '/' | url }}">Re:Coding</a>
@@ -38,6 +39,7 @@
 				</li>
 			{%- endfor %}
 			</ul>
+			-->
 		</header>
 	
 		{{ content | safe }}
