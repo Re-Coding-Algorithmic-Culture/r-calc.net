@@ -1,0 +1,24 @@
+---
+layout: layouts/base
+---
+<script type="text/javascript" src="drag.js"></script>
+
+<!--
+	<div id="noscript">Unfortunately this page requires <span style="color:aquamarine">Javascript</span> to be enabled. You won't be able to see much going on here otherwise...</div>
+-->
+
+<div id="buckets">
+	{%- for entry in collections.blob %}
+		<div class="couch icon">
+			<a href="{{ entry.url | url }}">{{ entry.data.title }}</a>
+		</div>
+	{%- endfor %}
+</div>
+
+<div id="index-background"></div>
+
+<main>
+	
+	{{ content | safe }}
+	
+</main>

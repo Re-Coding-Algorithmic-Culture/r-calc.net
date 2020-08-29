@@ -1,6 +1,6 @@
 ---
 layout: layouts/blob
-title: Something Blob Test
+title: Example Blob Something
 author: just a bundle of spiders
 ---
 

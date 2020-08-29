@@ -8,10 +8,10 @@
 		
 		<meta name="description" content="{{ description or metadata.description }}">
 		
-		<link rel="stylesheet" type="text/css" href="{{ '/style/hot.css' | url }}" />
-		<link rel="stylesheet" type="text/css" href="{{ '/style/fonts.css' | url }}" />
+		<link rel="stylesheet" type="text/css" href="{{ '/assets/hot.css' | url }}" />
+		<link rel="stylesheet" type="text/css" href="{{ '/assets/fonts.css' | url }}" />
 		
-		<link rel="shortcut icon" type="image/png" href="{{ '/style/assets/favicon.png' | url }}"/>
+		<link rel="shortcut icon" type="image/png" href="{{ '/assets/favicon.png' | url }}"/>
 		
 		<!-- embed -->
 		<meta property="og:title" content="Re:Coding Algorithmic Culture">
@@ -39,12 +39,9 @@
 			{%- endfor %}
 			</ul>
 		</header>
-		
-		<main>
 	
 		{{ content | safe }}
 		
-		</main>
 		{% if page.url != '/' %}
 		<footer>
 			<div class="footer-content">
