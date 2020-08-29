@@ -15,6 +15,23 @@ document.addEventListener("touchend", function(e){endDrag(e, true);});
 
 var topZ = 1;
 
+var activeElements;
+
+
+window.onload = init;
+function init()
+{
+	/* document.getElementById("noscript").remove(); */
+	activeElements = document.getElementById("bucket").children;
+	
+	console.log(activeElements[0]);
+	
+	// randomize icon positions on load
+	randomCouchPos();
+}
+
+
+
 function startDrag(e, touch = false)
 {
     e=e || window.event;
@@ -24,10 +41,11 @@ function startDrag(e, touch = false)
 	
 	if (dragDialog != null) return;
 	
-	if(e.target.classList.contains("icon") == true) dragDialog = e.target;
-	else dragDialog = e.target.parentElement;
+	if(e.target.classList.contains("couch-icon") || e.target.classList.contains("couch-text") ) dragDialog = e.target.parentElement.parentElement;
+	else if(e.target.classList.contains("couch-link")) dragDialog = e.target.parentElement;
+	else dragDialog = e.target;
 	
-	
+	dragDialog.children[0].style.pointerEvents = "none";
 	
 	if(touch)
 	{
@@ -88,18 +106,27 @@ function endDrag(e, touch = false)
 	for (var k = 0; k < iframes.length; k++) {
 	  iframes[k].style.pointerEvents = "initial";
 	} 
+	
+	dragDialog.children[0].style.pointerEvents = "initial"
 
 	dragDialog = null;
 }
 
 
-function setLayout(roomTile, roomPosition)
+
+function randomCouchPos()
 {
-	roomLayout[roomTile.dataset.room] = [roomPosition.x, roomPosition.y]
-	roomLayout[roomTile.dataset.room] = [roomPosition.x, roomPosition.y]
+	for (var i = 0; i < activeElements.length; i++)
+	{
+		var x = Math.random() * (window.innerWidth - 500);
+		var y = Math.random() * (window.innerHeight - 400);
+		
+		if (x < 0) x = 0; if (y < 0) y = 0;
+		
+		activeElements[i].style.left = y + "px";
+		activeElements[i].style.top = x + "px";
+	}
 }
-
-
 
 function clampInWindowRect(dialog)
 {
@@ -121,7 +148,7 @@ function clampAll()
 	for (var i = 0; i < activeElements.length; i++)
 	{
 		//this references the activeElements var from un_time.js
-		clampInWindowRect(document.getElementById("couch"+activeElements[i]))
+		clampInWindowRect(activeElements[i])
 	}
 }
 

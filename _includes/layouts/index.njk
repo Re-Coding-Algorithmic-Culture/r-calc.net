@@ -6,10 +6,13 @@ layout: layouts/base
 	<div id="noscript">Unfortunately this page requires <span style="color:aquamarine">Javascript</span> to be enabled. You won't be able to see much going on here otherwise...</div>
 -->
 
-<div id="buckets">
+<div id="bucket">
 	{%- for entry in collections.blob %}
-		<div class="couch icon {{ entry.data.icon }}" onmousedown="startDrag(event);">
-			<a href="{{ entry.url | url }}">{{ entry.data.title }}</a>
+		<div class="couch" onmousedown="startDrag(event);">
+			<a class="couch-link" href="{{ entry.url | url }}">
+				<div class="couch-icon {{ entry.data.icon }}"></div>
+				<div class="couch-text">{{ entry.data.title }}</div>
+			</a>
 		</div>
 	{%- endfor %}
 </div>

@@ -120,7 +120,7 @@ header a {
 	font-weight: 200;
 }
 
-header a:hover, a:active {
+header a:hover, header a:active {
 	color: #fff;
 }
 
@@ -150,34 +150,33 @@ footer {
 	position: fixed;
 	top: 10px;
 	left:10px;
-	cursor: move;
 	display: inline-grid;
+	cursor: grabbing; /* grab? move? */
 	
+	max-width: calc(72px * 2);
 	padding: 0 0;
 	margin: 0 0;
+	
+	filter: drop-shadow(55px 55px 5px #0003);
 }
 
-.couch.icon {
-	height: 64px;
-	width: 64px;
-	width: 192px;
-	filter: drop-shadow(15px 15px 15px rgba(1, 2, 5, 0.5));
+.couch-icon {
+	height: 72px;
+	width: 72px;
+	margin: 0 auto;
 }
 
-.couch.icon.nails {	background: url(icons/nail_polish_clw_v1.svg) no-repeat center;  }
-.couch.icon.folder {	background: url(icons/open_folder.svg) no-repeat center;  }
+.couch-icon.nails {	background: url(icons/nail_polish_clw_v1.svg) no-repeat 2px;  }
+.couch-icon.folder {	background: url(icons/open_folder.svg) no-repeat 2px;  }
 
-.couch.icon a {
-	font-size: 16pt;
-	margin-top: 64px;
+.couch-text {
+	font-size: 1em;
 	font-weight: 600;
+	margin: 0 auto;
 	text-align: center;
 	filter: none;
 }
 
-.couch.embed {
-	cursor: default;
-	box-shadow: 15px 15px 30px rgba(1, 2, 5, 0.5);
-	background-color: rgb(0, 0, 0);
-	border-radius: 4px;
+.couch-link {
+	cursor: pointer;
 }
