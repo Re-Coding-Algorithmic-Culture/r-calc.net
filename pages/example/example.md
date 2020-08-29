@@ -2,6 +2,7 @@
 layout: layouts/blob
 title: Example Blob Something
 author: just a bundle of spiders
+icon: nails
 ---
 
 The project Re:Coding Algorithmic Culture has won a grant from the VW Foundation within the category ‚Original – isn’t it?’. *Over the next 1.5 years*, the project participants will investigate the question of how algorithmically based collections, classifications and interpretations of data can perpetuate existing social inequalities/ discrimination – and also challenge, if not redefine them.

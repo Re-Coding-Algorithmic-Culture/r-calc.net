@@ -158,12 +158,14 @@ footer {
 }
 
 .couch.icon {
-	background: url(assets/icons/default-folder.svg) no-repeat center;
 	height: 64px;
 	width: 64px;
 	width: 192px;
 	filter: drop-shadow(15px 15px 15px rgba(1, 2, 5, 0.5));
 }
+
+.couch.icon.nails {	background: url(icons/nail_polish_clw_v1.svg) no-repeat center;  }
+.couch.icon.folder {	background: url(icons/open_folder.svg) no-repeat center;  }
 
 .couch.icon a {
 	font-size: 16pt;
