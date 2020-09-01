@@ -107,6 +107,9 @@ function endDrag(e, touch = false)
 
 function randomCouchPos()
 {
+	/* TODO: An algorithm (maybe?) to arrange the icons so they have dedicated positions
+	and don't overlap/cluster too much randomly. Maybe something spiral..? */
+	
 	for (var i = 0; i < activeElements.length; i++)
 	{
 		var x = Math.random() * (window.innerWidth - 500);
