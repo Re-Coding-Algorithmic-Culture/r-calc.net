@@ -6,7 +6,6 @@ var scrollOffset = {x:0, y:0};
 var dragPosition = {x:0, y:0};
 
 
-
 document.addEventListener("mousemove", moveDrag);
 document.addEventListener("mouseup", endDrag);
 
@@ -45,8 +44,6 @@ function startDrag(e, touch = false)
 	else if(e.target.classList.contains("couch-link")) dragDialog = e.target.parentElement;
 	else dragDialog = e.target;
 	
-	dragDialog.children[0].style.pointerEvents = "none";
-	
 	if(touch)
 	{
 		dragOffset.x = e.touches[0].screenX - dragDialog.offsetLeft;
@@ -58,20 +55,20 @@ function startDrag(e, touch = false)
 		dragOffset.y = e.screenY - dragDialog.offsetTop;
 	}
 	
-	var iframes = document.getElementsByTagName("iframe");
+	/*var iframes = document.getElementsByTagName("iframe");
 	for (var k = 0; k < iframes.length; k++) {
 	  iframes[k].style.pointerEvents = "none";
-	} 
+	} */
 	
 	bringToTop(dragDialog);
-	
-	moveDrag(e, touch);
 }
 
 function moveDrag(e, touch = false)
 {
 	if (dragDialog == null) return;
+	if (dragOffset.x == dragPosition.x && dragOffset.y == dragPosition.y) return;
 	
+	dragDialog.children[0].style.pointerEvents = "none";
 	
 	if(touch)
 	{
@@ -88,24 +85,18 @@ function moveDrag(e, touch = false)
 	
 	dragDialog.style.left = dragPosition.x + "px";
 	dragDialog.style.top = dragPosition.y + "px";
+	
+	clampInWindowRect(dragDialog);
 }
 
 function endDrag(e, touch = false)
 {
-	//window.alert("sometext");
-	
 	if (dragDialog == null) return;
 	
-		
-	dragDialog.style.left = dragPosition.x + "px";
-	dragDialog.style.top = dragPosition.y + "px";
-	
-	clampInWindowRect(dragDialog);
-	
-	var iframes = document.getElementsByTagName("iframe");
+	/*var iframes = document.getElementsByTagName("iframe");
 	for (var k = 0; k < iframes.length; k++) {
 	  iframes[k].style.pointerEvents = "initial";
-	} 
+	} */
 	
 	dragDialog.children[0].style.pointerEvents = "initial"
 
