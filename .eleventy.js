@@ -7,6 +7,16 @@ module.exports = function(eleventyConfig) {
  	eleventyConfig.addPassthroughCopy({"pages/**/*.jpeg": "img"});
  	eleventyConfig.addPassthroughCopy({"pages/**/*.png": "img"});
  	eleventyConfig.addPassthroughCopy({"pages/**/*.gif": "img"});
+	
+	const slugify = require("slugify");
+	eleventyConfig.addFilter("slug", (input) => {
+	  const options = {
+	    replacement: "-",
+	    remove: /[&,+()$~%.'":*?<>{}]/g,
+	    lower: true
+	  };
+	  return slugify(input, options);
+	});
   
     return {
     
@@ -19,3 +29,4 @@ module.exports = function(eleventyConfig) {
     };
   
 };
+
