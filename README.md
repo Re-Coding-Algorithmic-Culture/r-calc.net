@@ -2,7 +2,7 @@
 
 ## How to Set Up
 
-### 1. Install [Node.js](https://nodejs.org/en/) (version 8 or higher):
+### 1. Install [Node.js](https://nodejs.org/en/) (version 8 or higher)
 
 ### 2. Clone this repository
 
