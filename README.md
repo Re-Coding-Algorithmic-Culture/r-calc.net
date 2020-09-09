@@ -6,11 +6,13 @@
 
 ### 2. Clone this repository
 
-I'd recommend using [Github Desktop](https://desktop.github.com/) for this
+I'd recommend using [Github Desktop](https://desktop.github.com/) for this:
+
+[Clone via Github Desktop](x-github-client://openRepo/https://github.com/Re-Coding-Algorithmic-Culture/r-calc.net)
 
 ### 3. Open terminal and navigate to repository folder
 
-### 4. Initiate nodejs by typing into terminal:
+### 4. Initiate Node.js by typing into terminal:
 
 	npm init -y
 	
