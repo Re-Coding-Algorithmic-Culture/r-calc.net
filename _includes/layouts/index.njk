@@ -11,7 +11,7 @@ layout: layouts/base
 		<div class="couch" onmousedown="startDrag(event);">
 			<a class="couch-link" href="{{ entry.url | url }}">
 				<div class="couch-icon {{ entry.data.icon }}"></div>
-				<div class="couch-text">{{ entry.data.title }}</div>
+				<div class="couch-text"><span>{{ entry.data.title }}</span></div>
 			</a>
 		</div>
 	{%- endfor %}

@@ -39,9 +39,13 @@ a {
 	text-decoration: none;
 }
 
-a:hover, a:active {
+a:hover, a:active, a:focus {
 	color: #000;
 	text-decoration: underline;
+}
+
+a:focus {
+	border: 3px dotted #279b99;
 }
 
 h1, h2, h3, h4, h5 {
@@ -104,6 +108,7 @@ header {
 	margin: 0 0;
 	width: 100%;
 	position: absolute;
+	font-size: 1.2em;
 	top: 0;
 	left: 0;
 }
@@ -154,7 +159,7 @@ footer {
 	display: inline-grid;
 	cursor: grabbing; /* grab? move? */
 	
-	max-width: calc(72px * 2);
+	max-width: calc(80px * 2);
 	padding: 0 0;
 	margin: 0 0;
 	
@@ -162,8 +167,8 @@ footer {
 }
 
 .couch-icon {
-	height: 72px;
-	width: 72px;
+	height: 80px;
+	width: 80px;
 	margin: 0 auto;
 }
 
@@ -171,13 +176,25 @@ footer {
 .couch-icon.folder {	background: url(icons/open_folder.svg) no-repeat 2px;  }
 
 .couch-text {
-	font-size: 1em;
+	font-size: 0.9em;
 	font-weight: 600;
 	margin: 0 auto;
 	text-align: center;
 	filter: none;
+	margin-top: 0.5em;
+}
+
+.couch-text span {
+	background-color: #000;
+	border-radius: 0.25em;
+	padding: 0.25em 0.25em;
+	box-decoration-break: clone;
 }
 
 .couch-link {
 	cursor: pointer;
 }
+
+.couch-link:hover, .couch-link:active, .couch-link:focus {
+	color: #fff;	
+} 
