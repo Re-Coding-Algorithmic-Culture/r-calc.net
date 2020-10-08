@@ -48,6 +48,15 @@ a:focus {
 	border: 3px dotted #279b99;
 }
 
+.hidden {
+  position: absolute;
+  left:     -10000px;
+  top:      auto;
+  width:    1px;
+  height:   1px;
+  overflow: hidden;
+}
+
 h1, h2, h3, h4, h5 {
 	font-family: Oddee-No1;
 	font-weight: 200;
