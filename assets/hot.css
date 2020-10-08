@@ -42,10 +42,8 @@ a {
 a:hover, a:active, a:focus {
 	color: #000;
 	text-decoration: underline;
-}
-
-a:focus {
-	border: 3px dotted #279b99;
+	outline-color: #279b99;
+	outline-width: 3px;
 }
 
 .hidden {

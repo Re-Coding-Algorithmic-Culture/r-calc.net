@@ -3,6 +3,7 @@ layout: layouts/blob
 title: "Being Turned Off: An Un_timely Lab"
 author: nicole, ipek, johanna
 icon: nails
+iconlabel: 'Icon, purple fingers getting their nails done.'
 ---
 
 ![text here](/img/stream.png)
