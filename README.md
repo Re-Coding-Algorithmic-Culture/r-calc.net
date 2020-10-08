@@ -2,15 +2,15 @@
 
 ## How to Set Up
 
-### 1. Install nodejs (version 8 or higher):
+### 1. Install [Node.js](https://nodejs.org/en/) (version 8 or higher)
 
-[https://nodejs.org/en/](https://nodejs.org/en/)
+### 2. Clone this repository
 
-### 2. Clone this repo
+I'd recommend using [Github Desktop](https://desktop.github.com/) for this
 
-### 3. Open terminal and navigate to repo folder
+### 3. Open terminal and navigate to repository folder
 
-### 4. Initiate nodejs:
+### 4. Initiate Node.js by typing into terminal:
 
 	npm init -y
 	
@@ -21,8 +21,12 @@
 ### 6. To build the website into '_page' run:
 
 	npx @11ty/eleventy
+	
+### 7. To live test the page run:
 
-(or use ```npx @11ty/eleventy --serve``` and open http://localhost:8080)
+	npx @11ty/eleventy --serve
+	
+and open http://localhost:8080 once it's ready
 
 For more info also check out the Eleventy documentation:
 [https://www.11ty.dev/docs/getting-started/](https://www.11ty.dev/docs/getting-started/)
