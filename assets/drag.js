@@ -107,18 +107,16 @@ function endDrag(e, touch = false)
 
 function randomCouchPos()
 {
-	/* TODO: An algorithm (maybe?) to arrange the icons so they have dedicated positions
-	and don't overlap/cluster too much randomly. Maybe something spiral..? */
 	
 	for (var i = 0; i < activeElements.length; i++)
 	{
-		var x = Math.random() * (window.innerWidth - 500);
-		var y = Math.random() * (window.innerHeight - 400);
+		var x = (window.innerWidth * (i/activeElements.length)) + Math.random()*200;
+		var y = Math.random() * (window.innerHeight - 150);
 		
 		if (x < 0) x = 0; if (y < 0) y = 0;
 		
-		activeElements[i].style.left = y + "px";
-		activeElements[i].style.top = x + "px";
+		activeElements[i].style.left = x + "px";
+		activeElements[i].style.top = y + "px";
 	}
 }
 
@@ -129,11 +127,11 @@ function clampInWindowRect(dialog)
 	
 	//console.log(dialogRect)
 	
-	if (dialogRect.left < dialogRect.left - dialogRect.right + 50) dialog.style.left = dialogRect.left - dialogRect.right + 50 + "px";
+	if (dialogRect.left < dialogRect.left - dialogRect.right + 100) dialog.style.left = dialogRect.left - dialogRect.right + 100 + "px";
 	if (dialogRect.top < 0)  dialog.style.top = "0px";
 	
-	if (dialogRect.top > window.innerHeight  - 50)  dialog.style.top = window.innerHeight - 50 + "px";
-	if (dialogRect.left > window.innerWidth - 70) dialog.style.left =  window.innerWidth - 70+ "px";	
+	if (dialogRect.top > window.innerHeight  - 100)  dialog.style.top = window.innerHeight - 100 + "px";
+	if (dialogRect.left > window.innerWidth - 100) dialog.style.left =  window.innerWidth - 100+ "px";	
 	
 }
 
