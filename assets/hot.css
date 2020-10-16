@@ -67,6 +67,7 @@ h1, h2, h3, h4, h5, p {
 img, ul {
 	margin-top: 4em;
 	margin-bottom: 4em;
+	width: 100%;
 }
 
 @media (min-width: 104em) {
@@ -90,10 +91,6 @@ img, ul {
 		margin-right: 0;	
 		width: 40em;
 	}
-}
-
-@media (max-width: 80em) {
-	img { width: 100%; }
 }
 
 @media (max-width: 800px) {
