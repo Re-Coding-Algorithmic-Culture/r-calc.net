@@ -230,7 +230,7 @@ header.index a {
 	.couch-link {
 		display: inline-block;
 		margin: 0.5em 2em;
-		width: calc(100vw - 5em);
+		width: calc(100vw - 6em);
 		padding: 0.5em 0.5em;
 		background-color: #000;
 		border-radius: 0.25em;
