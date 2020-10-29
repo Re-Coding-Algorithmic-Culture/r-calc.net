@@ -159,6 +159,14 @@ header.index a {
 	color: #000;
 }
 
+#video {
+	/*position: fixed;*/
+	right: 0;
+	bottom: 0;
+	min-width: 100%; 
+	min-height: 100%;
+  }
+
 #index-background {
 	min-height: 100%;
 	width: 100%;
@@ -220,6 +228,7 @@ header.index a {
 	header.index { background-color: #000; font-size: 1em; }
 	header.index a { color: #279b99; }
 	#index-background { margin: -30em 0 0 0; }
+	#video { display: none;}
 	#bucket {
 		margin: 8em 0 -16em 0;
 	}
