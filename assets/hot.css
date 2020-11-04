@@ -71,11 +71,11 @@ h2, h3, h4, h5 {
 }
 
 p {
-	margin-top: 0.5em;
-	margin-bottom: 0.5em;
+	margin-top: 2em;
+	margin-bottom: 2em;
 }
 
-img, ul {
+img, video, ul {
 	margin-top: 4em;
 	margin-bottom: 4em;
 	width: 100%;
@@ -89,7 +89,7 @@ img, ul {
 }
 
 @media (min-width: 104em) {
-	.two-column img {
+	.two-column img, .two-column video {
 		position: absolute;
 		width: 30em;
 		left: calc(50% - 36em);
@@ -105,7 +105,7 @@ img, ul {
 }
 
 @media (max-width: 800px) {
-	img {
+	img, video {
 		width: calc(100% + 1em);
 		margin: 0.5em -0.5em;
 	}
@@ -176,6 +176,7 @@ header.index a {
 	bottom: 0;
 	min-width: 100%; 
 	min-height: 100%;
+	display: none;
   }
 
 #index-background {
@@ -241,7 +242,7 @@ header.index a {
 	header.index { background-color: #000; font-size: 1em; }
 	header.index a { color: #279b99; }
 	#index-background { margin: -30em 0 0 0; }
-	#video { display: none;}
+	#video { display: none; }
 	#bucket {
 		margin: 8em 0 -16em 0;
 	}
