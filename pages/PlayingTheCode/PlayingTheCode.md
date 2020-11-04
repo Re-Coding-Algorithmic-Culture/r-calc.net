@@ -6,14 +6,16 @@ icon: d20
 iconlabel: 'Icon of a 20 sided dice.'
 ---
 
-Playing the Code / Matters of Touch was a game jam that took place in an online meeting space from the 14th to the 16th of September 2020. A game jam is a get-together with a set timeframe and sometimes a topic to think up and make a game around.
+*Playing the Code / Matters of Touch* was a game jam that took place in an online meeting space from the 14th to the 16th of September 2020. A game jam is a get-together with a set timeframe and sometimes a topic to think up and make a game around.
 
 ![visual announcing the game jam shows overlapping interfaces and fragments in low resolution](/img/gamejam-announcement.png)
 
 We worked collaboratively to make our own physical games by using an assortment of playful materials that were mailed to each participant’s home in a randomized package. As a meeting space we set up a discord server where we shared ideas, references and our work-in-progress. Our desire was to create a relaxed, communal space to experiment with materials, without the worry of "getting something finished" by the end.
 
-{img of package next to the text}
-{img of discord?}
+![A small opened parcel. Various crafting materials are spilling out of it: yarn, pens, tape, dice, playing cards, modelling clay as well as a small printed note from the gamejam organizers. On the bottom of the note is a quote: "Use tarot readings to find the futures that capitalism has closed of (...) Strike, riot and take back the city!" - A Bewitching Revolution by Colestia.](/img/gamejam-box.jpg)
+
+![Screenshot of the Discord chat window. There are about a dozen participants chatting or talking in various channels.](/img/gamejam-discord.png)
+
 
 During the three days of the jam, we facilitated three meetups so that people could get to know one another. We also used this as a way of doing small collective exercises around game rules and playfulness.
 
@@ -24,8 +26,19 @@ Here are some of the  playful objects and games that were made during our jam:
 ### Anna
 "I enjoyed the communication in discord a lot while figuring out what I want to do with my really real materials - what took me at least 2/3 of the time. I was thinking a lot about non sense rules which lead one to "facts" - inspired by conspiracy theorists mixed with horoscopes and fortune telling machines. In the end I loved all the materials and managed to use a lot of them for a new way for you to find out your future - which will definitely happen."
 
+![A sketched diagram of a game idea. With various arrows connecting different game elements like dice and cards.](/img/gamejam-anna-sketch.png)
+
 ### Isi 
 "While dice are designed to show each number in an equal probability, stones generate different likelihoods for landing on various sides depending on their size, weight and shape. I’m curious about the unruly, un-average, indeterminate logics of engaging stones as dice."
 
 ![someone wearing glittery nail polish is writing down likelihoods of the sides on which stone dice fall. a stone lies next to the numbers 1-5](/img/gamejam-stones-01.png)
 ![with a white marker someone has written the numbers 1 and 5 on two differently shaped stones. additionally, the left stone has a piece of tape on it displaying the number 2](/img/gamejam-stones-02.png)
+
+### Spiders
+
+"Included with the gamejam materials was this spongey-moist modeling clay. While I played with it I realized it could conduct electricity. So I figured it would be interesting to use an Arduino and see how the resistance measured across the clay changes along with the clay's shape and thickness. I used this resistance value to drive a sound generator with varying pitch and timing."
+
+<video muted autoplay loop controls>
+  <source src="/img/gamejam-clay.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video> 
