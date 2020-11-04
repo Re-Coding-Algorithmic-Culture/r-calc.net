@@ -6,136 +6,378 @@ icon: nails
 iconlabel: 'Icon, purple fingers getting their nails done.'
 ---
 
-![text here](/img/stream.png)
+![A rectangle in orange-pink gradient color, placed on it are a draggable file named ‘On Circlusion - Bini Adamczak’, an embedded youtube video entitled  'Turning a Sphere Inside Out,' a written text in bold saying ‘On Being Turned Off. An Un_timely Lab the re:coding algorithmic culture research project’ and  text underneath saying '20 – 27 April 2020. Through a_synchronous meetings (gatherings) we will practice story-telling, go for a walk in between different times, encounter unknown matters, and speculate on staying not-healthy.'](/img/being-turned-off-screenshot.png)
 
-**On being turned off. An A_temporalities Lab.**
+*On Being Turned Off* ran from April 20 - 27, 2020 \[click
+[here](https://r-calc.net/beingturnedoff/) for its site\]. Both the
+Kunsthochschule and University of Kassel, where our research group was
+based, closed down on March 18, 2020 due to the COVID-19 pandemic. When
+we started preparing the lab in March, we already knew that it would
+take place online only. We had been using online communication platforms
+such as *Discord* and *Jitsi* (*Zoom* did not yet dominate academia) for
+organizing our project, so we knew the various frustrations of online
+formats. Many events were moving online out of necessity during that
+time. We often experienced a disregard by the events' organizers for
+what this shift means for the bodies sitting in front of the screens in
+terms of privacy, in terms of access, and in terms of a complete lack of
+crip sensibility for just how exhausting it is to continuously stare at
+a screen for long spans of time with little to no breaks. So we
+approached our lab with a focus on different modes of engagement --- in
+terms of timespan, demand of attention and communication-speed. In other
+words, we wanted our lab to take place along different temporalities. We
+developed a one page website for which we chose texts, videos, images
+and sounds to be displayed at different times during the lab week. Many
+of the included works dealt with concepts of time, touch, and the
+ableisms embedded in the idea of \"staying healthy\". Throughout the
+week the materials were repeated and reshuffled and we also
+organized three 2 hour-long chat meetups. Participants could join
+anonymously via an embedded chat interface while we as facilitators
+would take on different roles: We staged materials live on the website
+while people were watching, other times we structured the chat with
+messages prepared in advance according to a specific choreography.
+
+![](/img/being-turned-off-chat-note.png)
+
+The following is a reflection of this lab, written five months after the
+fact. Each of us three came up with questions we wanted to ask each
+other, then we took turns answering.
+
  
-**Through a_synchron meetings (gatherings) we will practice story-telling, go for a walk in between different times, encounter unknown matters and speculate on staying not-healthy.**
 
-[**https://r-calc.net/beingturnedoff/**](https://r-calc.net/beingturnedoff/)
+**Say something about difficulties during the process of developing and
+building the Un_timely Lab.**
 
-<span style="color: DarkOliveGreen">“On being turned off” was the first public lab organized within the context of our research project. It ran from the 20th to the 27th of April 2020. It became clear pretty early on that the lab would take place online-only. Since that was how many of us within the project organized ourselves anyway (with discord as our main discussion platform and meetings often taking place via jitsie and such, Zoom wasn’t that dominant quite yet back then) ideas of inviting people to a video-call was definitely something floating around. I think we all shared various frustrations with a lot of those demanding online formats. How despite going online a lot of events were still moving along meatspace-time and physical demand (maybe your familiar with the zoom-headache) so we somewhat shifted to making this a focal point of the lab: the format, and therefore the possibility of our lab taking place along different temporalities (attention span, time-demand, longevity etc.).  
-The lab itself consisted of a bare-bones webpage (https://r-calc.net/beingturnedoff/) where we curated different texts/videos/images and sounds to be displayed at different times during the week. With many of the works we featured dealing in some way or another with the ominous concepts of time, touch and healthiness. So you’d open the page one day to find a youtube-lecture about how to enable a non-normalized classroom learning space and come back sometime later to a pdf about diy face-mask sewing and a music video called “Too much to touch”. With the content itself also repeating and reshuffling throughout the week.
-But this is only one side of the lab, with the other being three different chat-meetups at various times throughout the week.  
-Each one lasting between one to two hours, where people could joining semi-anonymously via an embedded chatango.com applet. All meetups were planned quite differently but most often we had one person facilitation the discussion within the chat and one person acting as a sort-of website-vjay (explain vjay?). With the vjay being able to add and remove videos and texts and such live from the website whilst people were watching and chatting alongside.  </span>
+![](/img/being-turned-off-stream.png)
 
-![Description of image here](/img/shapes.png)
+I remember our work process as harmonious --- despite the fact that it
+was a massive amount of work and stress in a very short amount of time
+for cooking up an event that spanned an entire week. Our *Discord*
+server documents a four week preparation period, there simply was no
+time for conflicts while we prepared and the staged the laboratory. In
+retrospect there were many moments of friction where we should have
+taken the time to take a step back and listen to each others needs and
+imaginations. But I also need to say that I am super proud of what we
+did, this project is one of the most beautiful and precise things I have
+ever done.
 
-<span style="color: CornflowerBlue">What do you remember of the work process of how we developed and built the Un_Timely Lab, and do you find anything remarkable/noteworthy about the process?   </span>
   
-<span style="color: CornflowerBlue">I remember our work process as easy, fun, harmoneous and chilled - despite the fact that there wasn’t so much time to cook up an event that in actual fact spanned an entire week. (Our lab preparation work used Discord as communication tool, of the RCAC project development  - a proprietary freeware platform often used by gamers, and suitable for our purposes because it allows for neasily communicating visual elements, and communicating via visual elements. The posts document a 4 weeks preparation period - stimmt das? der kanal beginnt am 17.3.) The tension erupted later - I think also due to the fact that the event itself was very demanding simply also timewise.  </span>
 
-![Description of image here](/img/mask.png)
+Certainly one of the most demanding conditions of our collective process
+was that it took place in an institutional situation intensely
+structured by hierarchies, where individual work conditions differed
+dramatically with regard to precarity or security: three people worked
+collectively in an externally funded research project, with two of them
+each employed through an 18 month contract on a 25% position of
+'künstlerische Mitarbeiter\*innen' (artistic associate), and the third a
+Professor with a Beamtin (civil servant) contract for life.
 
-<span style="color: CornflowerBlue">If you look back, what did you like most about our lab? And what did you find most challenging?  </span>
-
-<span style="color: DarkOliveGreen">I'd like to start with answering the second question, because unfortunately I find it easier remembering what was challenging than what I really enjoyed in our process. And I think for me one of the most challenging things was what we called chat facilitation. I remember that we all three had different curiousnesses in investigating what a chat space could be for the lab meetups. For me this was definitely just this feeling of presence. Like the little indicator at the bottom of that chat window that said "there are 10 people in this space with you"... Maybe actually that's also what I liked most about our lab! This somewhat awkward but also tranquil moment of being together. But then what to do with all those uncertainties of the chat format, that was the difficult part.  </span>
-
-<span style="color: CornflowerBlue">That is for me very interesting to read, because i would say the same: the most challenging aspect was the chat facilitation. For me, that was a very tough learning experience. As a very [meatspace](https://www.urbandictionary.com/define.php?term=meatspace) experienced facilitator I was extremely naive in underestimating how, of course, chatroom conventions shape the conversations in those spaces. In other words you can’t facilitate -- or maybe you just shouldn’t because you’re demanding too much of yourself -- in contexts where you don’t know their communication conventions at all. That was a serious case of academic over-estimation on my part, i mean, no one would ever think of facilitating a university event if they have no idea about uni contexts.  </span>
   
-<span style="color: CornflowerBlue">And I already said that the lab itself, resp. its three installments, was for me very demanding, very stressfull - probably also because it coincided with the first week of the summer term semester, and that was the first semester under Covid-19-conditions, and i was still vice dean of the art school, and all of that meant that i sat in front of a computer for 14 hours every day, 7 days a week. But i also need to say that i am super proud about what we did: this project is one of the most beautiful, exciting, precise things i have ever done.  </span>
 
-| juni5 Facilitator | cdlk Moderator | slimehug V-Jay |
-| - | - | - |
-| [Das steht bei der Ankunft schon drauf:] | | Time is Made From Honey, Walters Zeichnung
-| Be slow. Take your time.
-| Slowness is a primary tool for creating anti-ableist situations of communication and insight. 
-| And: try playing around with pronouns,
-| e.g. using ‚they‘ and ‚them‘ when referring to others in the chat, 
-| as one of many tools to flatten the belief that there are only two genders.
-| Ps: all your posts will be deleted today at 13.00. Nothing will be stored. Thank you.
-| Welcome in the chat space for On Being Turned Off. An Un_Timely Lab. | Screenshot 2 windows posten
-| We will start at 10:05 GMT+2. 
-| Click here https://r-calc.net/beingturnedoff/testing0ef7/
-| Take a look around.
-| Make yourself comfortable.
+Plus, we had decided on an interactive, choreographed webpage, but only
+one of us is versed in coding for web. So this was another massive
+asymmetry, also with regard to different kinds of emotional labor, with
+one person carrying the burden of responsibility for creating the
+structure, and doing so in time, and the other two managing feelings of
+guilt and staging hectic or tired efforts to compensate or ignore this
+asymmetry. In many regards, more time and space would have been
+necessary for translations between different needs, practices, and
+knowledges.
 
-<span style="color: Coral">Hmm.. what Johanna says makes me go back to the thoughts we talked about during the preparation, that institutions for example started to use spaces in a way like claiming the spaces as theirs and they can do anything in them, as if they discovered them new for themselves, which is super problematic. I also read that games also started to be a new trend and art reviewers started to make game reviews of some popular games and they really do say “games are actually much more cooler than contemporary art”, haha, I don’t know how they can speak on ‘games’ as if it is not a huge thing and does not include a lot of crap besides the good ones. It has also its diverse community.  </span>
-  
-<span style="color: Coral">Thinking on what we did, I think it was very lecture-performance-like woffering space for interactivity. I think we developed our own method of doing the lab. This had its challenges of course. We could also use the academic Zoom method, which would be super safe in terms of you can control everything and you don’t count with any unexpected events. But we all weren’t interested in that, I think. With our method we managed also to get away from the frontal, self-image-based conversation and its ableism.   </span>
-  
-<span style="color: Coral">The facilitation or the feeling of being the facilitator was hard for me, especially to lead the conversations to a direction. I like the idea of posting one picture or text as small input once in a while and giving space for conversations to develop.   </span>
+ 
 
-<span style="color: DarkOliveGreen">I’m excited to be reading this as I do agree wholeheartedly. Looking back it really feels like and experiment with digital forms, throwing somewhat weird things together, tweaking and seeing what resonates with people. In order to try to get away from this very brutal mapping of physical learning spaces into digital material reality. But also I wonder about how much of this came across on the other end of the screen, at the people that were with us in the chat... and like you said about facilitation, even though we tried to ease a lot into the space, giving introductions and taking time, I still got the feeling that some people were just totally overwhelmed with this (including myself often).
-So I do wonder what the result of our “experiment” is, where would we go from here? Especially since we’ve now seen happen the normalization of Zoom as this catch-all environment with it’s own rules emerging (like everyone has their camera always on ;])...  </span>
+**If you look back, what did you like most about our lab? And what did
+you find most challenging?** 
 
-<span style="color: Coral">I think, if we had much more time to expand the space between the three meetings, like if they would be spreaded in one and a half month for example, that would be something/one thing I would like to try. In academic contexts I often feel like theories being told doesn’t really convince in practice, even though they sound good. Maybe because of limitedness; limited time, limited money, limited dedications etc. In ours I see (our) tendencies to get to somewhere else but I see also the existing limitations that won’t wholly allow it.  </span>
+For me, most challenging was what we called chat facilitation. I
+remember every one of us was curious to investigate what a chat space
+could be for the lab meetups. I myself was interested in this feeling of
+presence, like the little indicator at the bottom of the chat window
+saying \"there are 10 people in this space with you.\" Maybe this is
+also what I liked most about our lab: this somewhat awkward but also
+tranquil moment of being together. But then, what to do with all those
+uncertainties of the chat format --- that was the difficult part.
 
-<span style="color: DarkOliveGreen">What was it that we actually did? On the page it’s called a “lab (=laboratorium) space”? What does this mean in the context of meeting online and in the context of our research topics?  </span>
+![](/img/being-turned-off-screen.png)
 
-<span style="color: CornflowerBlue">\&lt;\&lt;**laboratory (n.)** c. 1600, "room or building set apart for scientific experiments," from Medieval Latin _laboratorium_ "a place for labor or work," from Latin _laboratus_, past participle of _laborare_ "to work" (see [**labor**](https://www.etymonline.com/word/labor?ref=etymonline_crossreference#etymonline_v_41652) (v.)). Figurative use by 1660s.[https://www.etymonline.com/word/laboratory](https://www.etymonline.com/word/laboratory), visited August 25, 2020). \&gt;\&gt;  </span
+I would say the same, the most challenging aspect in our lab was the
+chat facilitation, that was a tough learning experience. As a
+facilitator with lots of experience in physical spaces I underestimated
+how chat rooms have their own conventions which shape their
+conversations. In other words, you cannot facilitate in contexts if you
+do not know the communication conventions. That was a serious case of
+academic over-estimation on my part. No one would think of facilitating
+a university event if they have no idea about uni contexts.
 
-<span style="color: CornflowerBlue">The term ‘lab’ is application rhetorics, i.e. was chosen by us while writing the research grant application. For me, while writing, I liked the term as it denotes a context of experimentation, where people come together and try things out - and are invited to be participants in this try out  (versus being listeners/viewers to or of something that has been prepared beforehand.) In retrospect i wonder, was it Antragskitsch? For our specific project, other terms might have been more apt. (Let me go look...)  </span
+ 
 
-<span style="color: DarkOliveGreen">Hehe, I really find it interesting in your laboratory definition qoute that it says "room or building", and then we're talking about a webpage. It gives it this *skeuomorphic* quality. like calling the ZOOM interface and infrastructure a "digital classroom"...  
-(but then again, I’ve also just written in another part that I like “10 people are in this space with you”) ...  </span>
+Hmm\... what you are saying makes me go back to something we talked
+about during our preparation: how in this huge online-shift institutions
+started to use spaces in a certain way. They claimed these spaces as if
+they belonged to them and they can behave in whatever way they want in
+them -- as if these spaces had not existed before. Art reviewers
+‚discovered' games since you can play them online, unlike visiting
+exhibitions, and they started to write game reviews of popular games.
+The subnote and also the explicit tone of these reviews would be that
+games are much cooler than contemporary art. How can they speak of games
+as if they are one entity? Video Games have had diverse communities
+since at least the 1980s.
 
-<span style="color: Coral">I liked that very much too.  </span>
+ 
 
-<span style="color: Coral">Lab sounds for me like something where everyone can join and do stuff, actually I was chemistry fan as I was younger and I loved playing with the small tubes etc. so to me it is connected with trying things out firstly, but then the contexts in which it is used, e.g. in art contexts, it assumes to be something related with science, which doesn’t fit many times, and also maybe a strategy for getting funds?  </span> 
+I think what we did was very lecture-performance-like with a space for
+interactivity. We developed our own method of doing the lab, and this
+was of course challenging. We could have also used the academic
+Zoom-method, which would have been super safe in terms of being able to
+control everything and minimizing chances for unexpected things to
+happen. But we were all not interested in that. With our method we also
+managed to come up with something other than the usual frontal,
+self-image-based form of conversation and its ableism. Since critiquing
+ableisms was one of our main focuses, we also included a [video lecture
+excerpt](https://www.youtube.com/embed/tYHSHRzj7eY?start=3494) of Erin
+Manning explaining her methods of organizing a classroom space in a
+non-normative way. However, the facilitating or the feeling of being a
+facilitator was hard for me, and I found it especially hard to lead the
+conversations into a specific direction. But I very much liked our
+method of posting one picture or text in the chat as small input once in
+a while and giving space for conversations to develop.
 
-<span style="color: CornflowerBlue">\&lt;\&lt;Skeuomorphism has been a very useful concept in design, then it became the most hated concept in design, and then it came back from the dead. ... Skeuomorphism is where an object in software mimics its real world counterpart. The “trash can” is, perhaps, the most recognizable skeuomorphic object. Though the good old “save” icon was once skeuomorphic but following the demise of the floppy disc – it no longer bears resemblance to the world of [https://www.interaction-design.org/literature/article/skeuomorphism-is-dead-long-live-skeuomorphism](https://www.interaction-design.org/literature/article/skeuomorphism-is-dead-long-live-skeuomorphism), visited August 25, 2020) </span>
+![](/img/being-turned-off-shapes.png)
 
-![Description of image here](/img/screen.png)
+Looking back what we did really feels like an experiment with digital
+forms. Throwing somewhat weird things together, tweaking and seeing what
+resonates with people in an attempt to invent something other than the
+usual, very normative mapping of physical learning spaces into digital
+realities. But I wonder how much of this came across at the other end of
+the screen, for the people that were with us in the chat. I still got
+the feeling that some people were just totally overwhelmed by what was
+going on (myself included, sometimes), even though we did try to
+encourage everyone to take their time. So what is the result of our
+‚experiment', where would we go from here? Especially since we have
+witnessed the normalization of Zoom as this catch-all environment with
+its own rule set emerging --- such as everyone always having their
+camera on. This is very weird for me as someone who has been using VoIP,
+Voice over Internet Protocol, also called Internet telephony, in various
+forms since 2007 \*grinning-blob-emoji\*\...
 
-<span style="color: DarkOliveGreen">It also makes me wonder about the design of our lab page... How did this come together? It has this almost “meta-morphic” aspect to it, it functions as a minature desktop (with elements to drag around) inside your actual desktop.  </span> 
+ 
 
-<span style="color: Coral">That is interesting, a quote from the same page,</span>  
-<span style="color: BurlyWood">“That trash can let users drag stuff they didn’t want on their computers to an actual bin. You could move files to folders (another real life equivalent).”  </span>  
-<span style="color: Coral">And then talks about the ‘affordance’, means kind of that an object telling you what to do with it. In our page we had these draggable objects but there isn’t any move which tells you to do something, so you are free to move, but without any specific goal, I like that actually, maybe it could have gone a bit further even. Time or better untimely aspect relates to this too, I think.  </span> 
+I think if we had had more time for expanding the three meetings and
+stretching the time between them out over one and a half months for
+example, that would have made the untimely effect stronger. In academic
+contexts I often feel that the theories that are discussed are
+not really convincing in practice, even though they are well thought
+out. Maybe because of limits --- limited time, limited money, limited
+dedications and so on. In our lab I see tendencies to get to somewhere
+else but I also see the existing limitations that didn't wholly allow
+for this getting elsewhere.
 
-<span style="color: DarkOliveGreen">What is the significance of “different times” and “a_synchronicity”?</span>
+ 
+![](/img/being-turned-off-lab.png)
+etymonline.com/word/laboratory, visited August 25, 2020.
 
-<span style="color: CornflowerBlue">In order to cater to different temporal needs and realities, we created a structure of presentation where different elements followed different temporal logics, or even, where participants could determine their own viewing and reading pace.</span>
+ 
 
-| Friday 24, 5-7 pm |
-| - |
-| on our site https://r-calc.net/beingturnedoff/you will find things abandoned on screen, you can drag them around. please take your time to look at these pieces. you should feel encouraged to skip and zone out, view things repeatedly or simultaneously. other than that, we'll be here in the chat |
-| we'll be here in the chat. feel free to share your thoughts. be mindful to give others space to share |
+The term 'lab' tastes of contexts of experimentation, where people come
+together and try things out - and also where participants might feel
+invited to actively engage in experimentation versus passively
+consuming. But there might be a dimension of kitsch involved our use of
+the term. By this I mean that 'laboratory' also has a connotation of
+serious scientific research: natural sciences, hard facts, objective
+truths. For people coming from arts and design based research, as many
+of us do, and even more so for people with a queer- and trans\*feminist,
+decolonial and anti-ableist perspective, this usage of the term needs to
+have an ironic footnote, since we all embrace the understanding that
+knowledge is situated, and participate in problematizing universal truth
+claims and demands for general objectivity. 
 
-<span style="color: CornflowerBlue">Persson Perry Baumgartinger, when he taught a project in Kassel, said that in his experience slowing down is the most useful tool for creating anti-ableist learning contexts. In our project, this became painfully clear - if someone goes too fast, they lose parts of the research group — and this kept happening in the beginning. Also, i think i have never before been made so aware of how different needs are with regard to taking one’s time or enjoying being speedy, and how these different temporal needs create their own physical/material reality. So we slowed down. (I am a fast reader, a fast talker, and i type fast - in order to stop being fast while in the lab’s chat installments, i started to sit on my hands  in front of the computer, and i bit on my tongue. So yes, this was quite painful at times.) </span>
+ 
 
-<span style="color: CornflowerBlue">Ours and other people’s work used during the three lab installments:</span>
+I like the term lab very much. Lab to me sounds like a place where
+everyone can join and do stuff. I was a chemistry fan when I was younger
+and I loved playing with those small tubes and such. So to me the term
+is above all connected with trying things out. But when it is used in
+art contexts, it forges a relation to the sciences, and although using
+the term might be a good strategy for getting funding, often times those
+two different contexts really don't fit together at all.
 
-![Description of image here](/img/code.png)
+ 
 
-<span style="color: CornflowerBlue">Should we pay for using other people’s work, we wondered, and we discussed whose work we should pay for. (There was no money for this kind of expense: according to the rules of grant giver VW Stiftung the research project cannot pay honorary fees; if money was needed we had to scrounge money from elsewhere.) Our decision was that work presented online on large platforms can be quoted or referenced but work given to us via permission by freelance artists needed to be remunerated with at least a symbolic amount of money. </span>
+I really find it interesting that in the laboratory definition above it
+says \"room or building set apart for scientific experiments\", and with
+regard to our lab, we are actually talking about a webpage. Using 'lab'
+creates this \*skeuomorphic\* quality. Skeuomorphism is a design concept
+I know from the first iPhone interfaces or also from Windows Media
+Player themes. It is the idea to make an abstract thing like an app
+resemble some real-world counterpart in order to make it more
+approachable for the user --- like when media player apps copied button
+layouts and the scrubbing function from old tape players. Or like when
+you call the *Zoom* interface and infrastructure a \"digital
+classroom\".
 
-<span style="color: DarkOliveGreen">Oh!! This, for me, is such a fuzzy but really important territory! I remember that we had lots of discussions regarding quoting, embedding, crediting and such, with even just one of the aspects being honorarium. From my experience with festivals and freelance work this is always so arbitrary and hush-hush. I feel kind of good that we payed something at least but drawing that line feels somewhat bad in retrospect. I’m sitting here wondering if I should write down our budget... was it 200 € or something? With the VW Stiftung project grant being a total of 200.000 € just to put some perspective on this. Maybe we’ll redact this afterwards because it does feel somwhat disrespectful towards the artists. It just wasn’t enough budget even though we tried. And I think there is a longer discussion we could (an should?) have here with regards the different realities between academic quoting and artist/screening fees. Especially when talking about different media (film, images, code, music and of course text) and especially-especially when talking about online spaces and presentation forms.</span>
+![](/img/being-turned-off-media.png)
 
-<span style="color: CornflowerBlue">Yes! But i would also like to add that to my knowledge there is no such thing as a screening fee for academic texts - so imagine what this means, materially, as a matter of fact, for theorists that try to survive as freelancers resp in work conditions that are ‘prekarisiert’ - and that are ‘prekarisiert’ ever more progressively, as ever more theorists and academics work under ‘prekarisierten Arbeitsbedingungen’. So one of the criteria for me was, precisely not is this an academic or an artist - but can i find out if the person whose work we quote / use has a job that gives them a regular income, or was the particular work produced under fair working conditions i.e. had people been paid while producing a work that we would then use/show/quote (i actually think, ‘quoting’ is a technically misleading term for what we did with other people’s productions). </span>
+(\*another-blobby-smiling-emoji\* but also when you imagine a chat room
+as \"10 people are in this space with you").
+ 
 
-<span style="color: Coral">I think that is a good point, to consider the circumstances in which the work was produced. I consider this also in music or any other kind of art form, I am coming to the point on which we had arguements, but just passing by :)
-If it is already produced by a person from a priviledged position, then I don’t feel like I have to give this person credits, it goes to the direction of defending copyrights to me and I disagree with that at this point. </span>
+![](/img/being-turned-off-skeuo.png)
+interaction-design.org/literature/article/skeuomorphism-is-dead-long-live-skeuomorphism, visited August 25, 2020.
 
-![Description of image here](/img/copyright.png)
+ 
 
-<span style="color: Coral">And the artist fees (screening fees) are almost non-existent for usual artists, if you are not very succesful already, so like the academic quoting, it is just a cultural capital which enables exploitation. It feels weird to be in that position of the organizer, but I think it was quite OK what we did considering the fees.</span>
+This also makes me wonder, how did the design of our lab page come
+about? The page has elements which one can drag around and it functions
+like a minature desktop inside one's actual desktop (so perhaps this is
+a form of 'meta-skeuomorphism'). Here's another quote from that
+Skeuomorphism page: "That trash can lets users drag stuff they didn't
+want on their computers to an actual bin. You could move files to
+folders (another real life equivalent)." And then it
+mentions 'affordance', a term which refers to what an
+object communicates to you that you can do with it. On our page there
+were these draggable objects but there was nothing telling you what you
+had to do, so you were free to move around. I like that actually, maybe
+it could even have gone a bit further. Time or better the aspect of
+untimeliness relates to this too, I think.
 
-<span style="color: Coral">The time when we made this workshop, it was the beginning of pandemic, now we are more like in the middle, I think in that short time we managed to pick up some essential issues like staying not healthy etc. What would you do it otherwise when we did it now, or what do you think has changed meanwhile (if at all) ? </span>
+ 
 
-<span style="color: DarkOliveGreen">I would kind of like to ask the participants of our three lab meetups this questions. Back in April I got the feeling that many treasured this collective coming together right at a moment where lots of uncertainties were looming. But over time I’ve felt a sort of online-attrition set in and I wonder if people now would just feel exhausted by _another_ chat interface and _another_ online event/lecture/meetup etc...</span>
+**What is the significance of "different times" and "a_synchronicity"?**
 
-<span style="color: DarkOliveGreen">But to answer the question I probably would have not made it an online event at all. Maybe rather an invitation to not stare at a laptop-screen for 10 hours and go somewhere else instead.</span>
+ 
 
-![Description of image here](/img/bleibgesundoderso.png)
+We created a structure of presentation where different elements followed
+different temporal logics, or even, where participants could determine
+their own viewing and reading pace. When [Persson Perry
+Baumgartinger](https://tupviskom.net/gestaltung__sprache__geschlecht-begehren/)
+taught at the Kunsthochschule Kassel, he said that in his experience
+slowing down is the most useful tool for creating anti-ableist learning
+spaces. During the lab I myself became very aware of the existence of
+different needs with regard to taking one's time or enjoying being
+speedy, and how these different temporal needs are quite violently
+denied by a uniform understanding of time and its enormously
+exclusionary potential. So we slowed down. I myself am a fast reader, I
+talk and type fast, so for slowing down during the chat sessions, I
+started to sit on my hands and I bit on my tongue, quite painful at
+times.
 
-<span style="color: DarkOliveGreen">Vodafone carrier message on a Nokia 6320i mobile phone, and I can’t turn this off so I have to stare at it whenever I need to use the phone</span>
+ 
 
-<span style="color: Coral">OH!!</span>
+**Can you talk a bit about how and why you quoted / staged /
+repeated other people's work during the lab.** 
 
-<span style="color: CornflowerBlue">Ah yes, true - one of the things we picked up was that everywhere this ‘stay healthy/bleib gesund’ cropped up. I remember an angry post on an email list from the political left where someone wrote: can you just shut up, i am not healthy and have never been, i am dealing with chronic diseases so just think for a moment what kind of interpellation your ableist thoughtlessness produces for me. (hehe editors will you accept ‘interpellation’?)</span>
+ 
 
-<span style="color: CornflowerBlue">Another important impulse for me was to cook up something where people can come together - and also get a sense of togetherness - at least for a short moment in time... Remember that we chose Jonathan xxx’s ‘I am dancing in a Lesbian Bar’, and did this also in a melancholy mode, to at least have a representation/imagination of a queer Bar in our space: and this in a situation where it was also clear that queer spaces will be amongst the hardest hit contexts, with regard to economic survival; and where physical distancing and lockdowns also meant that I  for more than 6 weeks, other than doing grocery shopping, would meet no other body but this one friend and his dog, who live down the road, for occasional ‘Spaziergänge’. (Here a link to Tom Holert’s Spaziergänge als zeitgenössischtes soziales Medium). This situation of physical isolation has changed. But also, the sense of enormous urgency, I think, changed - and i am not sure if that is such a good thing. </span>
+I will actually shift your question onto another focus, one that we
+intensely discussed during our preparation: the question of if and how
+we would pay people for using their work. There was no money for this
+kind of expense, since the terms of our *Volkswagen Stiftung* grant did
+not allow for paying honorary fees. We had to scrounge that money from
+elsewhere. So, our decision was that work already online on large
+platforms can be quoted or referenced but work given to us via
+permission by artists had to be compensated with at least a symbolic
+amount of money. 
 
-<span style="color: Coral">I was thinking what you both say on online spaces too. I am a person who likes to meet online and has no problem with it, even I wouldn’t do it online, if it was now. I feel like a canon emerged of these online meetings and it is not something which I pay attention to or enthusiastic about, anymore, unlike in the beginning. Also for a short time I started to think I can join now any other online event all over the world, so I joined a few, one in London. I felt quite uncomfortable, almost like an alien. I didn’t understand the language of the people who are native English speakers and even the contexts, so what once seemed to be great opportunity turned out to be existing just in theory.  </span>
+ 
 
-<span style="color: DarkOliveGreen">I’m thinking a bit about the form of our blob and I’m wondering if we could keep the color coding of our different voices and not add our names in front of it like I’d imagine and interview/script to do. I like keeping a bit of the vagueness and fuzziness, maybe a bit of Kollektivkörper? Do we even want to keep it in some dialogue format... I haven’t thought about this yet...</span>
+This was a central point during the preparations, our discussions around
+quoting, embedding, crediting and honorarium. But I would say that it
+was a lot more fuzzy than you're writing. The budget we had for external
+contributions to this lab was just 200 - 300 €, in my opinion too little
+to cover multiple honorary fees. I still believe it was great that we
+tried to feature other work and pay at least a symbolic amount of money.
+Nevertheless it continues to be a sore point for me that we did not have
+more time to discuss and communicate our decisions on screening fees. As
+someone who has worked in many festival context both on the side of the
+organizer and the side of the contributor, this is unfortunately
+something I am quite familiar with.
 
-<span style="color: CornflowerBlue">finde ich auch. kann für mich auch einfach mit verschiedenen farben sein.</span>
+I would also add that at least there are screening fees for artists
+whereas there is no such thing as a screening fee for academic texts.
+Imagine what this means, materially, for freelance theorists who work
+under precarious working conditions. So, for our discussion around
+reimbursing authors for staging or quoting their work I found the
+question ‚is this an academic or an artist?' irrelevant. I tried to find
+out instead if the person whose work we wanted to include has a job that
+gives them a regular income, or if a particular work was produced under
+fair working conditions.
 
-<span style="color: Coral">maybe there could be more colors than we are :) </span>
+I think this is a good point, to consider the circumstances under which
+the work was produced. I also ask these kinds of questions in the field
+of music or any other kind of art form. For me, it is important to ask
+if a work was produced by a person in a more privileged position. At
+this point I want to talk about open access rather than discussing
+personal credits in terms of either money or referencing the author. The
+latter direction means to defend copyrights and I disagree with that at
+this point. Also, artist/screening fees are almost non-existent usually,
+if you are not very successful already. As with academic quoting
+conventions, getting screened mostly just means cultural capital which
+enables exploitation. It feels weird to be in that position of the
+organizer, but I think it was quite OK what we did considering our
+minimal budget.
 
+**We hosted our lab at the beginning of a pandemic, now we are probably
+more in the middle of it. I think we picked up some essential issues
+such as questions around what it means to "stay healthy" (or not). What
+would you do differently if we developed the workshop now, what has
+changed meanwhile (if at all)?**
 
+ 
 
+Back in April I got the feeling that our lab participants valued this
+collective coming together right at a moment where lots of uncertainties
+were looming. But over the months I felt a sort of online-attrition set
+in and I wonder if people now would just feel exhausted by *another*
+chat interface and *another* online meetup. But to answer the first
+question, I probably would not have made it an online event at all.
+Maybe rather an invitation to not stare at a laptop-screen for 10 hours
+and go somewhere else instead.
 
+![](/img/being-turned-off-mask.png)
+
+One of the things we picked up was that everywhere this phrase of 'stay
+healthy/bleib gesund' cropped up. And I remember one moment on
+an activist mailing list where someone rebutted: „Just shut up, I am not
+healthy, I have a chronic disease so consider the emotional effects of
+your ableist thoughtlessness." Another important impulse for me was to
+invent something for people to have a sense of togetherness, at least
+for a short moment in time. And we chose to include Jonathan Richman's
+[*I was am dancing in the Lesbian
+Bar*](https://www.youtube.com/watch?v=XjFU98mEem4) - also as a
+bittersweet reminder that a lot of queer spaces were hit the hardest
+with regard to economic survival.
+
+![](/img/being-turned-off-stay.png)
+
+This is a message that Vodaphone sent to my Nokia 6320i mobile phone,
+and I can't turn this off so I have to stare at it whenever I need to
+use the phone.
+
+ 
+
+I was thinking about what you both were writing about online spaces. I
+am a person who likes to meet online. I have no problem with that. And
+even I would not like to do a workshop online now. My impression is a
+canon emerged from these online meetings, and that is not something I am
+enthusiastic about anymore. For a short time I thought that I can join
+online events all over the world. So I joined a few workshops in London.
+I felt quite uncomfortable, almost like an alien. I didn't understand
+the language and also not the context of the people who were first
+language English speakers. So an online workshop is not a utopia, but
+like any other space it is shaped by existing structures of domination,
+and you have to discuss how this is so specifically and what to do about
+it, specifically.
+
+![](/img/being-turned-off-clap.png)
+
+---------------------------------------
+
+ 
+
+This text was written by\... \[links to websites\]
+
+It uses \[Mutant Standard emoji\](https://mutant.tech), which are
+licensed under a \[Creative Commons Attribution-NonCommercial-ShareAlike
+4.0 International
+License\](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
+
+![](/img/being-turned-off-code.png)
