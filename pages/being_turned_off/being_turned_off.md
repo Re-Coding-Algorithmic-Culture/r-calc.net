@@ -22,7 +22,7 @@ what this shift means for the bodies sitting in front of the screens in
 terms of privacy, in terms of access, and in terms of a complete lack of
 crip sensibility for just how exhausting it is to continuously stare at
 a screen for long spans of time with little to no breaks. So we
-approached our lab with a focus on different modes of engagement --- in
+approached our lab with a focus on different modes of engagement – in
 terms of timespan, demand of attention and communication-speed. In other
 words, we wanted our lab to take place along different temporalities. We
 developed a one page website for which we chose texts, videos, images
@@ -49,7 +49,7 @@ building the Un_timely Lab.**
 
 ![](/img/being-turned-off-stream.png)
 
-I remember our work process as harmonious --- despite the fact that it
+I remember our work process as harmonious – despite the fact that it
 was a massive amount of work and stress in a very short amount of time
 for cooking up an event that spanned an entire week. Our *Discord*
 server documents a four week preparation period, there simply was no
@@ -95,7 +95,7 @@ presence, like the little indicator at the bottom of the chat window
 saying \"there are 10 people in this space with you.\" Maybe this is
 also what I liked most about our lab: this somewhat awkward but also
 tranquil moment of being together. But then, what to do with all those
-uncertainties of the chat format --- that was the difficult part.
+uncertainties of the chat format – that was the difficult part.
 
 ![](/img/being-turned-off-screen.png)
 
@@ -114,7 +114,7 @@ Hmm\... what you are saying makes me go back to something we talked
 about during our preparation: how in this huge online-shift institutions
 started to use spaces in a certain way. They claimed these spaces as if
 they belonged to them and they can behave in whatever way they want in
-them -- as if these spaces had not existed before. Art reviewers
+them – as if these spaces had not existed before. Art reviewers
 ‚discovered' games since you can play them online, unlike visiting
 exhibitions, and they started to write game reviews of popular games.
 The subnote and also the explicit tone of these reviews would be that
@@ -154,10 +154,7 @@ going on (myself included, sometimes), even though we did try to
 encourage everyone to take their time. So what is the result of our
 ‚experiment', where would we go from here? Especially since we have
 witnessed the normalization of Zoom as this catch-all environment with
-its own rule set emerging --- such as everyone always having their
-camera on. This is very weird for me as someone who has been using VoIP,
-Voice over Internet Protocol, also called Internet telephony, in various
-forms since 2007 \*grinning-blob-emoji\*\...
+its own ruleset emerging.
 
  
 
@@ -166,7 +163,7 @@ stretching the time between them out over one and a half months for
 example, that would have made the untimely effect stronger. In academic
 contexts I often feel that the theories that are discussed are
 not really convincing in practice, even though they are well thought
-out. Maybe because of limits --- limited time, limited money, limited
+out. Maybe because of limits – limited time, limited money, limited
 dedications and so on. In our lab I see tendencies to get to somewhere
 else but I also see the existing limitations that didn't wholly allow
 for this getting elsewhere.
@@ -209,7 +206,7 @@ creates this \*skeuomorphic\* quality. Skeuomorphism is a design concept
 I know from the first iPhone interfaces or also from Windows Media
 Player themes. It is the idea to make an abstract thing like an app
 resemble some real-world counterpart in order to make it more
-approachable for the user --- like when media player apps copied button
+approachable for the user – like when media player apps copied button
 layouts and the scrubbing function from old tape players. Or like when
 you call the *Zoom* interface and infrastructure a \"digital
 classroom\".
@@ -369,7 +366,7 @@ it, specifically.
 
 ![](/img/being-turned-off-clap.png)
 
----------------------------------------
+–––––––––––––
 
  
 
