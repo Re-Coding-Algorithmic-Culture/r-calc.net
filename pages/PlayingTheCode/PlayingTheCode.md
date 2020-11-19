@@ -16,7 +16,7 @@ We worked collaboratively to make our own physical games by using an assortment 
 
 During the three days of the jam, we facilitated three meetups so that people could get to know one another. We also used this as a way of doing small collective exercises around game rules and playfulness.
 
-![Screenshot of the Discord chat window. There are about a dozen participants chatting or talking in various channels.](/img/gamejam-discord.png)
+![Screenshot of the Discord chat window. There are about a dozen participants chatting or talking in various channels.](/img/gamejam-discord.jpg)
 
 Here are some of the  playful objects and games that were made during our jam: 
 
@@ -30,8 +30,8 @@ Here are some of the  playful objects and games that were made during our jam:
 ### Isi 
 "While dice are designed to show each number in an equal probability, stones generate different likelihoods for landing on various sides depending on their size, weight and shape. I’m curious about the unruly, un-average, indeterminate logics of engaging stones as dice."
 
-![someone wearing glittery nail polish is writing down likelihoods of the sides on which stone dice fall. a stone lies next to the numbers 1-5](/img/gamejam-stones-01.png)
-![with a white marker someone has written the numbers 1 and 5 on two differently shaped stones. additionally, the left stone has a piece of tape on it displaying the number 2](/img/gamejam-stones-02.png)
+![someone wearing glittery nail polish is writing down likelihoods of the sides on which stone dice fall. a stone lies next to the numbers 1-5](/img/gamejam-stones-01.jpg)
+![with a white marker someone has written the numbers 1 and 5 on two differently shaped stones. additionally, the left stone has a piece of tape on it displaying the number 2](/img/gamejam-stones-02.jpg)
 
 ### Spiders
 
