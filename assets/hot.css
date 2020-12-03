@@ -311,6 +311,8 @@ header.index a {
 		color: #000;
 		text-decoration: none;
 	}
+
+	
 }
 
 /* Footer */
@@ -319,6 +321,21 @@ footer {
 	background-color: #521e4c;
 	margin-top: 16em;
 	color: #fff;
+}
+
+footer img {
+	width: 10em;
+	height: auto;
+	margin-right: 2em;
+}
+
+@media (max-width: 800px) {
+	footer img {
+		width: 8em;
+		height: auto;
+		margin-left: 0.2em;
+		margin-right: 0.2em;
+	}
 }
 
 .footer-content {
