@@ -1,7 +1,7 @@
 ---
 layout: layouts/blob
 title: "Taking a Walk through a Computer"
-author: Pinar, Isi, Loren
+author: Loren Britton, Isabel Paehr, Pinar Tuzcu
 icon: terminal
 iconlabel: 'Icon of a computer terminal.'
 ---

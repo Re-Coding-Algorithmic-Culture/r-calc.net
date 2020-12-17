@@ -1,7 +1,7 @@
 ---
 layout: layouts/blob
 title: "Playing the Code / Matters of Touch"
-author: claude, ipek, isi, loren, nicole
+author: "Loren Britton, Ipek Burçak, Claude Draude, Isabel Paehr, Nicole voec"
 icon: d20
 iconlabel: 'Icon of a 20 sided dice.'
 ---

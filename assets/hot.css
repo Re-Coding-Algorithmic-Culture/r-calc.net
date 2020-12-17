@@ -315,11 +315,17 @@ header.index a {
 	
 }
 
+/* Credits */
+#credits {
+	margin-top: 8em;
+	font-style: italic;
+}
+
 /* Footer */
 
 footer {
 	background-color: #521e4c;
-	margin-top: 16em;
+	margin-top: 8em;
 	color: #fff;
 }
 
