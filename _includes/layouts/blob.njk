@@ -7,6 +7,13 @@ permalink: "{{ title | slug }}/"
 	
 <h1>{{ title }}</h1>
 
+<div id="sound">
+    <audio controls>
+    <source src="../assets/sounds/{{ title | slug }}.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+    </audio>
+</div>
+
 {{ content | safe }}
 
 </main>
