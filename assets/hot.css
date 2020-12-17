@@ -324,14 +324,15 @@ footer {
 }
 
 footer img {
-	width: 10em;
+	width: 8em;
 	height: auto;
-	margin-right: 2em;
+	margin-right: 1.8em;
+
 }
 
 @media (max-width: 800px) {
 	footer img {
-		width: 8em;
+		width: 6em;
 		height: auto;
 		margin-left: 0.2em;
 		margin-right: 0.2em;
