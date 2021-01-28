@@ -260,6 +260,7 @@ header.index a {
 .couch-icon.shark {	background: url(icons/shark.svg) no-repeat 2px;  }
 .couch-icon.d20 { background: url(icons/d20.svg) no-repeat 2px;  }
 .couch-icon.terminal { background: url(icons/terminal.svg) no-repeat 2px;  }
+.couch-icon.spiral { background: url(icons/spiral.svg) no-repeat 2px;  }
 
 .couch-link {
 	cursor: pointer;
