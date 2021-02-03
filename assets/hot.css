@@ -111,6 +111,21 @@ h1, .h1 {
   }
 /* --- end of font section --- */
 
+.text blockquote p {
+	text-align: left;
+	background-color: white;
+}
+
+.text li:before {
+	content: none; /* bullet points */
+	padding-right: 1em;
+  }
+
+.text li {
+	list-style-type: circle;
+	margin: 1em 0;
+  }
+
 
 img, ul, .project-video video {
 	width: 100%;
