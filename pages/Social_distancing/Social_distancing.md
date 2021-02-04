@@ -55,10 +55,10 @@ So even in a sociological sense, social distancing refers to both affective and 
 
 A | B
 - | - 
-![alt](/img/Lab-Memes.png)|![alt](/img/Lab_Meme1.png)|![alt](/img/lab_meme_2.png)
-![alt](/img/lab_meme4.png) |![alt](/img/lab_meme_5.png)| ![alt](/img/lab_meme6.png)
+![](/img/Lab-Memes.png)|![](/img/Lab_Meme1.png)|![](/img/lab_meme_2.png)
+![](/img/lab_meme4.png) |![](/img/lab_meme_5.png)| ![](/img/lab_meme6.png)
 
-![alt](/img/meme9.png)|![alt](/img/meme10.png) | 
+![](/img/meme9.png)|![](/img/meme10.png) | 
 
 
 
