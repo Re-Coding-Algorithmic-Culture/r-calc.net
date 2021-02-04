@@ -54,7 +54,7 @@ For instance, David Sibley defines the contemporary practice of social distancin
 So even in a sociological sense, social distancing refers to both affective and physical distancing, like also it is used in these medical papers. But this also suggests that social distancing also is also about spatial segregation and it manifests social hierarchical relations and even reproduces new power structures. Because it also makes clear a control mechanism,  the power of being able to decide, for instance from whom one ones to distance from, who the characteristic of this group, or people, or an individual is and can be defined, that is to say, who decides the cultural and social proximities of such distancing. And I think Eunice will give more concrete and current examples for what I mean by this.
 
 
----|---|---
+
 ![](/img/Lab-Memes.png)|![](/img/Lab_Meme1.png)|![](/img/lab_meme_2.png)
 ![](/img/lab_meme4.png) |![](/img/lab_meme_5.png)| ![](/img/lab_meme6.png)
 
