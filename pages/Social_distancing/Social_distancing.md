@@ -56,13 +56,13 @@ So even in a sociological sense, social distancing refers to both affective and 
 
 <tr>
 
-<td> <img src="/img/Lab-Memes.png" alt="Drawing" style="width: 250px;"/> </td>
+<td> <img src="/img/Lab-Memes.png" alt="Drawing" style="width: 200px;"/> </td>
 
-<td> <img src="/img/lab_meme_2.png" alt="Drawing" style="width: 250px;"/> </td>
-<td> <img src="/img/lab_meme_5.jpeg" alt="Drawing" style="width: 250px;"/> </td>
-<td> <img src="/img/Lab_meme3.png" alt="Drawing" style="width: 250px;"/> </td>
-<td> <img src="/img/lab_meme6.png" alt="Drawing" style="width: 250px;"/> </td>
-<td> <img src="/img/meme9.png" alt="Drawing" style="width: 250px;"/> </td>
+<td> <img src="/img/lab_meme_2.png" alt="Drawing" style="width: 200px;"/> </td>
+<td> <img src="/img/lab_meme_5.jpeg" alt="Drawing" style="width: 200px;"/> </td>
+<td> <img src="/img/Lab_meme3.png" alt="Drawing" style="width: 200px;"/> </td>
+<td> <img src="/img/lab_meme6.png" alt="Drawing" style="width: 200px;"/> </td>
+<td> <img src="/img/meme9.png" alt="Drawing" style="width: 200px;"/> </td>
 <td> <img src="/img/lab_meme4.png" alt="Drawing" style="width: 300px;"/> </td>
 
 <td> <img src="/img/meme10.jpg" alt="Drawing" style="width: 300px;"/> </td>
