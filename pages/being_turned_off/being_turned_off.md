@@ -8,6 +8,7 @@ iconlabel: 'Icon, purple fingers getting their nails done.'
 
 ![A rectangle in orange-pink gradient color, placed on it are a draggable file named ‘On Circlusion - Bini Adamczak’, an embedded youtube video entitled  'Turning a Sphere Inside Out,' a written text in bold saying ‘On Being Turned Off. An Un_timely Lab the re:coding algorithmic culture research project’ and  text underneath saying '20 – 27 April 2020. Through a_synchronous meetings (gatherings) we will practice story-telling, go for a walk in between different times, encounter unknown matters, and speculate on staying not-healthy.'](/img/being-turned-off-screenshot.png)
 
+BEING TURNED OFF !!! 
 *On Being Turned Off* ran from April 20 - 27, 2020 \[click
 [here](https://r-calc.net/beingturnedoff/) for its site\]. Both the
 Kunsthochschule and University of Kassel, where our research group was
