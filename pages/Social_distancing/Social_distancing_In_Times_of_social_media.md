@@ -34,6 +34,7 @@ Disclaimer: The content of this podcast belongs to the podcast contributors. Ple
 
 ![](/img/socialdistancing_podcastimage_3.png)Podcast image: Pinar Tuzcu  
 
+   
 Pınar:
 
 I would like to talk a little bit about the historical and conceptual background of the phrase "social distancing". I think this concept entered our lives with the pandemic around February maybe even March, right? And we pretty quickly adopted and integrated it in our so-called new normal. This was also the topic of a project lab that we organized in May 2020. 
