@@ -8,10 +8,10 @@ iconlabel: 'Alien, uncheerful.'
 
 ![](/img/Lab_Social_Distancing_.png)
 
-Podcast image: Pinar Tuzcu
-Recording and editing: Pinar Tuzcu
-Host: Eunice Njoki and Pinar Tuzcu
-Guests: Elisabeth Tuider, Tom Fixer, Eunice Njoki and Pinar Tuzcu 
+Podcast image: Pinar Tuzcu  
+Recording and editing: Pinar Tuzcu  
+Host: Eunice Njoki and Pinar Tuzcu  
+Guests: Elisabeth Tuider, Tom Fixer, Eunice Njoki and Pinar Tuzcu  
 
 Blurb: 
 This podcast content emerged from a lab named “Social Distancing in times of Social Media”. This lab took place on the 12th of May, 2020 in the realm of an interdiciplinary project called Re:coding Algorithmic Culture, funded by the Volkswagen Foundation and organized by the sociology of diversity department at the University of Kassel. In this podcast, we, as the lab organizers, discuss what “social distancing” from a sociological perspective means and why a medical prevention strategy against the Covid-19 pandemic was named like this by the medical experts. We will also talk about how social distancing as a measure got adapted in the discourses of governmental politics during the pandemic, what are the impacts of these discourses on our “social” lives with regard to the question of race, gender, and class. 
