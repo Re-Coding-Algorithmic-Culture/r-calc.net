@@ -6,7 +6,7 @@ icon: alien
 iconlabel: 'Alien, uncheerful.'
 ---
 
-![A rectangle in orange-pink gradient color, placed on it are a draggable file named ‘On Circlusion - Bini Adamczak’, an embedded youtube video entitled  'Turning a Sphere Inside Out,' a written text in bold saying ‘On Being Turned Off. An Un_timely Lab the re:coding algorithmic culture research project’ and  text underneath saying '20 – 27 April 2020. Through a_synchronous meetings (gatherings) we will practice story-telling, go for a walk in between different times, encounter unknown matters, and speculate on staying not-healthy.'](/img/being-turned-off-screenshot.png)
+![](/img/Lab_Social_Distancing_.png)
 
 Podcast image: Pinar Tuzcu
 Recording and editing Pinar Tuzcu
