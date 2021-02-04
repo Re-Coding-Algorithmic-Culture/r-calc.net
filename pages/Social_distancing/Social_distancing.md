@@ -53,12 +53,12 @@ In his 1925 paper  “Social Distance and its Origin,” Emory Bogardus, who is
 For instance, David Sibley defines the contemporary practice of social distancing, in his article Geographies of Exclusion as follows: Social distancing is "the desire of those who feel threatened to distance themselves from defiled people and defiled places...places associated with ethnic and racial minorities, like the inner city, [that] are still tainted and perceived as polluting in racist discourses, and place-related phobias [that] are similarly evident in response to other minorities, like gays and the homeless" (Sibley, 1995: 49, 59). Or Randall Amster argues in his 2002 article “Patterns of Exclusion: Sanitizing Space, Criminalizing Homelessness” that social distancing operates through the "disease" metaphor and this arises out of spatial segregation of antiseptic sterility and disinfected experience. So according to him it refers to the social sterility particularly in urban spaces as an antiseptic retreat for the diseased of spirit to be temporarily distracted from the depredations of their existence. So, in this sense, he also thinks that it has a burgeoe concerns and it is often subsequently projected on and attributed to some marginalized or colonized "other" (cf. Fanon, 1991). So, in light of the hegemonic nature of social distancing, it is worth considering how this notion of "disease" seems to originate primarily within the dominant culture, and then is projected onto marginalized populations such as the homeless.
 So even in a sociological sense, social distancing refers to both affective and physical distancing, like also it is used in these medical papers. But this also suggests that social distancing also is also about spatial segregation and it manifests social hierarchical relations and even reproduces new power structures. Because it also makes clear a control mechanism,  the power of being able to decide, for instance from whom one ones to distance from, who the characteristic of this group, or people, or an individual is and can be defined, that is to say, who decides the cultural and social proximities of such distancing. And I think Eunice will give more concrete and current examples for what I mean by this.
 
+A | B
+- | - 
+![alt](/img/Lab-Memes.png)|![alt](/img/Lab_Meme1.png)|![alt](/img/lab_meme_2.png)
+![alt](/img/lab_meme4.png) |![alt](/img/lab_meme_5.png)| ![alt](/img/lab_meme6.png)
 
-
-![](/img/Lab-Memes.png)|![](/img/Lab_Meme1.png)|![](/img/lab_meme_2.png)
-![](/img/lab_meme4.png) |![](/img/lab_meme_5.png)| ![](/img/lab_meme6.png)
-
-![](/img/meme9.png)|![](/img/meme10.png) | 
+![alt](/img/meme9.png)|![alt](/img/meme10.png) | 
 
 
 
