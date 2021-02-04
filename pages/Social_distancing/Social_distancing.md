@@ -9,7 +9,7 @@ iconlabel: 'Alien, uncheerful.'
 ![](/img/Lab_Social_Distancing_.png)
 
 Podcast image: Pinar Tuzcu
-Recording and editing Pinar Tuzcu
+Recording and editing: Pinar Tuzcu
 Host: Eunice Njoki and Pinar Tuzcu
 Guests: Elisabeth Tuider, Tom Fixer, Eunice Njoki and Pinar Tuzcu 
 
@@ -76,12 +76,6 @@ So even in a sociological sense, social distancing refers to both affective and 
 ![](/img/lab_meme_2.png)
 
  
-
-
-![](/img/socialdistancing_podcastimage_3.png)
-
-
-
 ![](/img/lab_meme4.png)
 
 
@@ -89,6 +83,12 @@ So even in a sociological sense, social distancing refers to both affective and 
 ![](/img/lab_meme_5.png)
 
 ![](/img/lab_meme6.png)
+
+![](/img/meme9.png)
+
+![](/img/meme10.png)
+
+
 
 
 
