@@ -126,6 +126,11 @@ h1, .h1 {
 	margin: 1em 0;
   }
 
+.text #credits {
+	margin-top: 0.2em;
+	font-style: italic;
+}
+
 
 img, ul, .project-video video {
 	width: 100%;

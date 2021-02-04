@@ -4,7 +4,7 @@ tags: blob
 permalink: "{{ title | slug }}/"
 ---
 <main>
-
+<div class="text">
 <h1>{{ title }}</h1>
 
 <div id="sound">
@@ -14,12 +14,14 @@ permalink: "{{ title | slug }}/"
     </audio>
 </div>
 
-<div class="text">
-{{ content | safe }}
-</div>
-
 <div id="credits"
 <p>{{ author }}</p>
 </div>
+
+
+{{ content | safe }}
+</div>
+
+
 
 </main>
