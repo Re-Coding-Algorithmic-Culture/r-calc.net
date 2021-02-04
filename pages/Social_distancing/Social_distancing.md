@@ -63,8 +63,8 @@ So even in a sociological sense, social distancing refers to both affective and 
 
 
 <tr>
-<td> <img src="lab_meme_2.png" alt="Drawing" style="width: 250px;"/> </td>
-<td> <img src="Lab_Meme1.png" alt="Drawing" style="width: 250px;"/> </td>
+<td> <img src="/img/lab_meme_2.png" alt="Drawing" style="width: 250px;"/> </td>
+<td> <img src="/img/Lab_Meme1.png" alt="Drawing" style="width: 250px;"/> </td>
 </tr>
 
 
