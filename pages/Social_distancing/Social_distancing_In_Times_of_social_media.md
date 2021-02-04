@@ -10,7 +10,7 @@ iconlabel: 'Alien, uncheerful.'
 
 
 Recording and editing: Pinar Tuzcu  
-Host: Eunice Njoki and Pinar Tuzcu  
+Hosts: Eunice Njoki and Pinar Tuzcu  
 Guests: Elisabeth Tuider, Tom Fixer, Eunice Njoki and Pinar Tuzcu  
 
 
