@@ -1,6 +1,6 @@
 ---
 layout: layouts/blob
-title: "Social Distancing"
+title: "Social distancing in Times of Social Media"
 author: Elisabeth Tuider, Tom Fixer, Eunice Njoki and Pinar Tuzcu 
 icon: alien
 iconlabel: 'Alien, uncheerful.'
