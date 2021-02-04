@@ -12,7 +12,7 @@ iconlabel: 'Alien, uncheerful.'
 Recording and editing: Pinar Tuzcu  
 Host: Eunice Njoki and Pinar Tuzcu  
 Guests: Elisabeth Tuider, Tom Fixer, Eunice Njoki and Pinar Tuzcu  
-Podcast image: Pinar Tuzcu  
+
 
 
 Blurb: 
@@ -32,7 +32,7 @@ Content overview:
 Disclaimer: The content of this podcast belongs to the podcast contributors. Pleases do not cite or refer to the content without the relevant person’s permission. The contact information of the contributors can be find under: Soziologie der Diversität_UniKassel
 
 
-![](/img/socialdistancing_podcastimage_3.png)
+![](/img/socialdistancing_podcastimage_3.png) Podcast image: Pinar Tuzcu  
 
 Pınar:
 
