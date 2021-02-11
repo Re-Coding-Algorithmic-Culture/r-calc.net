@@ -2,8 +2,8 @@
 layout: layouts/impressum
 title: Impressum
 ---
-__Website team, design and content__: Nicole (voec), Isabel Paehr, Loren Britton, Ipek Burçak, Johanna Schaffer </br>
-__Webdesign & Development__: Nicole (voec), Isabel Paehr </br>
+__Website team, design and content__: Nicole spiders, Isabel Paehr, Loren Britton, Ipek Burçak, Johanna Schaffer </br>
+__Webdesign & Development__: Nicole spiders, Isabel Paehr </br>
 __Fonts, headlines__: Oddee 1 </br>
 __Fonts, paragraphs__: Work Sans </br>
 
