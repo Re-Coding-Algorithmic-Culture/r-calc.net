@@ -26,7 +26,7 @@ The following is a reflection of this lab, written five months after the fact. E
 
 <br />
 
-**Say something about difficulties during the process of developing and building the Un_Timely Lab.**
+<h2 style="font-size: 1.38888889em;line-height: 1.08em;margin-top: 1.08em;margin-bottom: 0em;">Say something about difficulties during the process of developing and building the Un_Timely Lab.</h2>
 
 <br />
 
@@ -43,7 +43,7 @@ Plus, we had decided on an interactive, choreographed webpage, but only one of u
 
 <br />
 
-**If you look back, what did you like most about our lab? And what did you find most challenging?** 
+<h2 style="font-size: 1.38888889em;line-height: 1.08em;margin-top: 1.08em;margin-bottom: 0em;">If you look back, what did you like most about our lab? And what did you find most challenging?</h2>
 
 <br />
 
@@ -75,7 +75,7 @@ I think if we had had more time for expanding the three meetings and stretching 
 
 <br />
 
-**Why are we using the term 'lab' for a description of the events that we organize for the research project? What does the usage of lab mean when moving these events online?**
+<h2 style="font-size: 1.38888889em;line-height: 1.08em;margin-top: 1.08em;margin-bottom: 0em;">Why are we using the term 'lab' for a description of the events that we organize for the research project? What does the usage of lab mean when moving these events online?</h2>
 
 <br />
 
@@ -101,7 +101,7 @@ This also makes me wonder, how did the design of our lab page come about? The pa
 
 <br />
 
-**What is the significance of "different times" and "a_synchronicity"?**
+<h2 style="font-size: 1.38888889em;line-height: 1.08em;margin-top: 1.08em;margin-bottom: 0em;">What is the significance of "different times" and "a_synchronicity"?</h2>
 
 <br />
 
@@ -109,7 +109,7 @@ We created a structure of presentation where different elements followed differe
 
 <br />
 
-**Can you talk a bit about how and why you quoted / staged / repeated other people's work during the lab.** 
+<h2 style="font-size: 1.38888889em;line-height: 1.08em;margin-top: 1.08em;margin-bottom: 0em;">Can you talk a bit about how and why you quoted / staged / repeated other people's work during the lab.</h2> 
 
 <br />
 
@@ -123,7 +123,7 @@ I think this is a good point, to consider the circumstances under which the work
 
 <br />
 
-**We hosted our lab at the beginning of a pandemic, now we are probably more in the middle of it. I think we picked up some essential issues such as questions around what it means to "stay healthy" (or not). What would you do differently if we developed the workshop now, what has changed meanwhile (if at all)?**
+<h2 style="font-size: 1.38888889em;line-height: 1.08em;margin-top: 1.08em;margin-bottom: 0em;">We hosted our lab at the beginning of a pandemic, now we are probably more in the middle of it. I think we picked up some essential issues such as questions around what it means to "stay healthy" (or not). What would you do differently if we developed the workshop now, what has changed meanwhile (if at all)?</h2>
 
 <br />
 
