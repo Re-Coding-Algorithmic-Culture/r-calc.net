@@ -116,23 +116,28 @@ h1, .h1 {
 	background-color: white;
 }
 
-.text li:before {
-	content: none; /* bullet points */
-	padding-right: 1em;
-  }
+main ul {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 2em;
+  text-indent: -2em;
+}
 
-.text li {
-	list-style-type: circle;
-	margin: 1em 0;
-  }
+main li {
+	margin: 1em 0;	
+}
+
+main li:before {
+  content: "🧵"; /* bullet points */
+  padding-right: 0.63em;
+}
 
 .text #credits {
 	margin-top: 0.2em;
 	font-style: italic;
 }
 
-
-img, ul, .project-video video {
+img, .project-video video {
 	width: 100%;
 }
 
@@ -164,16 +169,6 @@ img, ul, .project-video video {
 		width: calc(100% + 1em);
 		margin: 0.5em -0.5em;
 	}
-}
-
-li {
-  list-style-type:none;
-  margin: 1em 0;
-}
-
-li:before {
-  content: "🧵"; /* bullet points */
-  padding-right: 1em;
 }
 
 ::selection {
