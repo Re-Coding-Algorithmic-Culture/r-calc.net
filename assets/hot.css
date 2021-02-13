@@ -111,6 +111,14 @@ h1, .h1 {
   }
 /* --- end of font section --- */
 
+audio
+{
+	min-width: 8em;
+	width: 50%;
+	border-radius: 0.27em;
+}
+
+
 .text blockquote p {
 	text-align: left;
 	background-color: white;
