@@ -23,8 +23,6 @@ function init()
 	/* document.getElementById("noscript").remove(); */
 	activeElements = document.getElementById("bucket").children;
 	
-	console.log(activeElements[0]);
-	
 	// randomize icon positions on load
 	randomCouchPos();
 }
@@ -110,10 +108,11 @@ function randomCouchPos()
 	
 	for (var i = 0; i < activeElements.length; i++)
 	{
-		var x = (window.innerWidth * (i/activeElements.length)) + Math.random()*200;
-		var y = Math.random() * (window.innerHeight - 150);
+		var x = 100 + ((window.innerWidth - 200) * (i/activeElements.length)) + ((Math.random()*300) - 150);
+		var y = Math.random() * (window.innerHeight - 200);
 		
 		if (x < 0) x = 0; if (y < 0) y = 0;
+		if (x > window.innerWidth - 250) x = window.innerWidth - 250;
 		
 		activeElements[i].style.left = x + "px";
 		activeElements[i].style.top = y + "px";
