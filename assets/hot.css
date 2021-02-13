@@ -262,6 +262,32 @@ header.index a {
 		padding: 0.27em 0.27em;
 		box-decoration-break: clone;
 	}
+	
+	.drop {
+		background: url(icons/drop.png) no-repeat 2px;
+		background-size: 48px 48px;
+		
+		position: absolute;
+		z-index: 1;
+		bottom: 40px;
+		left: 50%;
+		cursor: s-resize; /* grab? move? */
+		
+		width: 48px;
+		height: 48px;
+		padding: 0 0;
+		
+		filter: drop-shadow(15px 15px 5px #0003);
+		animation-name: drip;
+  		animation-duration: 1s;
+		animation-iteration-count: infinite;
+		animation-direction: alternate;
+	}
+	@keyframes drip {
+	  from {bottom: 40px;}
+	  to {bottom: 30px;}
+	}
+
 }
 
 .couch-icon {
@@ -328,6 +354,10 @@ header.index a {
 		background-color: #279b99; /* 1cdbf7 */
 		color: #000;
 		text-decoration: none;
+	}
+	
+	.drop {
+		display: none;
 	}
 
 	

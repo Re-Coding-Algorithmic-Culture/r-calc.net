@@ -11,13 +11,14 @@ layout: layouts/base
 <div id="bucket">
 	{%- for entry in collections.blob %}
 		<div class="couch" onmousedown="startDrag(event);">
-			<a class="couch-link" href="{{ entry.url | url }}">
+			<a title="drag me✨" class="couch-link" href="{{ entry.url | url }}">
 				<div class="couch-icon {{ entry.data.icon }}" aria-label="{{ entry.data.iconlabel }}"></div>
 				<div class="couch-text"><span>{{ entry.data.title }}</span></div>
 			</a>
 		</div>
 	{%- endfor %}
 </div>
+<div class="drop" title="Scroll for more info" onmousedown="window.scrollTo({ top: window.innerHeight, behavior: 'smooth' })"></div>
 
 <div id="index-background">
 	<video autoplay muted loop>
