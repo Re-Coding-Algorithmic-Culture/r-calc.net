@@ -12,7 +12,7 @@ document.addEventListener("mouseup", endDrag);
 document.addEventListener("touchmove", function(e){moveDrag(e, true);});
 document.addEventListener("touchend", function(e){endDrag(e, true);});
 
-var topZ = 1;
+var topZ = 2;
 
 var activeElements;
 
@@ -40,6 +40,7 @@ function startDrag(e, touch = false)
 	
 	if(e.target.classList.contains("couch-icon") || e.target.classList.contains("couch-text") ) dragDialog = e.target.parentElement.parentElement;
 	else if(e.target.classList.contains("couch-link")) dragDialog = e.target.parentElement;
+	else if(e.target.type = "span") dragDialog = e.target.parentElement.parentElement.parentElement;
 	else dragDialog = e.target;
 	
 	if(touch)

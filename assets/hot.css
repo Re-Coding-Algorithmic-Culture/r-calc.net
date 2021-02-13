@@ -247,7 +247,7 @@ header a span { padding: 0 0.2em 0.2em 0.2em; }
 @media (min-width: 800px) {
 	.couch {
 		position: fixed;
-		z-index: 100;
+		z-index: 2;
 		top: 10px;
 		left:10px;
 		display: inline-grid;
@@ -267,6 +267,7 @@ header a span { padding: 0 0.2em 0.2em 0.2em; }
 		text-align: center;
 		filter: none;
 		margin-top: 0.5em;
+		width: calc(90px * 2);
 	}
 
 	.couch-text span {
