@@ -195,7 +195,7 @@ header {
 	margin: 0 0;
 	width: 100%;
 	position: absolute;
-	z-index: 100;
+	z-index: 1;
 	font-size: 1.2em;
 	top: 0;
 	left: 0;
@@ -219,15 +219,28 @@ header a:hover, header a:active {
 
 header.index a {
 	color: white;
+	
+	position: absolute;
+	right: 0;
 }
 
+header.index a span { background-color: #808080; }
+header a span { padding: 0 0.2em 0.2em 0.2em; }
+
 #index-background {
-	min-height: 100%;
+	min-height: 100vh;
 	width: 100%;
-	z-index: -100;
 	background-color: #000;
 	-webkit-filter: opacity(.5);
   	filter: opacity(.5);
+}
+
+#index-video {
+	position: fixed;
+	right: 0;
+	top: 0;
+	min-width: 100%;
+	min-height: 100%;
 }
 
 /* index-page floating icons */
@@ -317,11 +330,27 @@ header.index a {
 @media (max-width: 800px) {
 	header.index { background-color: #000; font-size: 1em; }
 	header.index a { color: #279b99; }
-	#index-background { margin: -30em 0 0 0; background: linear-gradient(200deg, #33708b, rgb(65, 33, 107));}
-	#index-video { display: none; }
-	#bucket {
-		margin: 8em 0 -16em 0;
+	#index-background {
+		position: absolute;
+		min-height: 50rem;
+    	height: 100%;
+    	z-index: -1;
+    	top: 0;
 	}
+	#index-video {
+		position: fixed;
+		right: 0;
+		bottom: 0;
+		width: auto;
+		height: 100%;
+	}
+	#bucket {
+		margin: 8em 0 14em 0;
+	}
+	header.index { position: absolute }
+	header.index a { position: relative; }
+	header.index a span { background: none; }
+	.couch { z-index: 100; }
 	
 	.couch-link {
 		display: inline-block;

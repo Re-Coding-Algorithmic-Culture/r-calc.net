@@ -29,7 +29,7 @@
 	<body>
 		<header {% if page.url == '/' %} class="index" {% endif %}>
 			<h1 class="hidden">Header</h1>
-			<a href="{{ '/' | url }}">{{ metadata.title }}</a>
+			<a href="{{ '/' | url }}"><span class="title">{{ metadata.title }}</span></a>
 		</header>
 	
 		{{ content | safe }}
