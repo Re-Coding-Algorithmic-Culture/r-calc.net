@@ -1,12 +1,12 @@
 ---
 layout: layouts/blob
-title: "Being Turned Off: An Un_Timely Lab"
+title: "On Being Turned Off: An Un_Timely Lab"
 author: "Ipek Burçak, Nicole spiders, Johanna Schaffer"
 icon: nails
 iconlabel: 'Icon, purple fingers getting their nails polished.'
 ---
 
-![A header in bold black letters on an orange rectangle says “On Being Turned Off. An un_timely lab by the Re:Coding Algorithmic Culture research project”. Superimposed is a folder icon labeled “On Circlusion - Bini Adamczak’” Another element hovers further down, a Youtube video labeled “Turning a Sphere Inside Out”. Between them, the text continues: “20 – 27 April 2020. Through a_synchronous meetings (gatherings) we will practice story-telling, go for a walk in between different times, encounter unknown matters, and speculate on staying not-healthy.”](/img/being-turned-off-screenshot.png)
+![A header in bold black letters on an orange rectangle says “On Being Turned Off. An  un_timely lab by the Re:Coding Algorithmic Culture research project”. Superimposed is a folder icon labeled “On Circlusion - Bini Adamczak’” Another element hovers further down, a Youtube video labeled “Turning a Sphere Inside Out”. Between them, the text continues: “20 – 27 April 2020. Through a_synchronous meetings (gatherings) we will practice story-telling, go for a walk in between different times, encounter unknown matters, and speculate on staying not-healthy.”](/img/being-turned-off-screenshot.png)
 *[r-calc.net/beingturnedoff](https://r-calc.net/beingturnedoff/) [screenshot]*
 
 <br />
@@ -17,7 +17,7 @@ We developed [a one page website](https://r-calc.net/beingturnedoff/) for which 
 
 <br />
 
-![A plain text paragraph: “Friday 24, 5-7 pm; on our site https://r-calc-net/beingturnedoff/ you will find things abandoned on screen, you can drag them around. please take your time to look at these pieces. you should feel encouraged to skip and zone out, view things repeatedly or simultaneously. other than that, we’ll be here in the chat. we’ll be here in the chat. feel free to share your thoughts. be mindful to give others space to share”](/img/being-turned-off-chat-note.png)
+![A plain text paragraph: “Friday 24, 5-7 pm; on our site https://r-calc.net/beingturnedoff/ you will find things abandoned on screen, you can drag them around. please take your time to look at these pieces. you should feel encouraged to skip and zone out, view things repeatedly or simultaneously. other than that, we’ll be here in the chat. we’ll be here in the chat. feel free to share your thoughts. be mindful to give others space to share”](/img/being-turned-off-chat-note.png)
 *Excerpt from the chat facilitation for our live meetup on April 24*
 
 <br />
@@ -92,7 +92,7 @@ I really find it interesting that in the laboratory definition above it says \"r
 
 <br />
 
-![Another excerpt, black writing on a beige rectangle. This one is taken from an article on ‘skeuomorphsm’. The text reads: "Skeuomorphism is where an object in software mimics its real world counterpart. The 'trash can' is, perhaps, the most recognizable skeuomorphic object. Though the good old 'save' icon was once skeuomorphic but following the demise of the floppy disc — it no longer bears resemblance to the world of today." The turquoise background shows a pattern of emoji, cute, witchy fingers getting their nails polished.](/img/being-turned-off-skeuo.png)
+![Another excerpt, black writing on a beige rectangle. This one is taken from an article on ‘skeuomorphi sm’. The text reads: "Skeuomorphism is where an object in software mimics its real world counterpart. The 'trash can' is, perhaps, the most recognizable skeuomorphic object. Though the good old 'save' icon was once skeuomorphic but following the demise of the floppy disc — it no longer bears resemblance to the world of today." The turquoise background shows a pattern of emoji, cute, witchy fingers getting their nails polished.](/img/being-turned-off-skeuo.png)
 *[https://www.interaction-design.org/literature/article/skeuomorphism-is-dead-long-live-skeuomorphism](https://www.interaction-design.org/literature/article/skeuomorphism-is-dead-long-live-skeuomorphism), visited August 25, 2020 [screenshot]*
 
 <br />
