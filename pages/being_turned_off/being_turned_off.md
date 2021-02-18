@@ -13,7 +13,7 @@ iconlabel: 'Icon, purple fingers getting their nails polished.'
 
 *On Being Turned Off* ran from April 20 - 27, 2020. Both the [Kunsthochschule](https://www.kunsthochschulekassel.de/willkommen.html) and [University of Kassel](https://www.uni-kassel.de/uni/), where [our research group](https://r-calc.net/) was based, closed down on March 18, 2020 due to the COVID-19 pandemic. So when we started preparing the lab in March, we already knew that it would take place online only. We had already been using online communication platforms such as *Discord* and *Jitsi* (*Zoom* did not yet dominate academia) for organizing our project, and we knew the various frustrations of online formats. When many events started to move online at that time, we often experienced a disregard by the events' organizers for what this shift means for the bodies sitting in front of the screens (in terms of privacy, access and in terms of a complete lack of crip sensibility for just how exhausting it is to continuously stare at a screen for long spans of time with too few or no breaks). So we approached our lab with a focus on different modes of engagement – in terms of time span, demand of attention and communication speed: we wanted our lab to take place along different temporalities.
 
-We developed [a one page website](https://r-calc.net/beingturnedoff/) for which we chose texts, videos, images and sounds to be displayed at different times during the lab week. Many of the included works dealt with concepts of time, touch, and the ableisms embedded in the idea of \"staying healthy\". Throughout the week the materials were repeated and reshuffled and we also organized three 2 hour-long chat meetups. Participants could join anonymously via an embedded chat interface while we as facilitators would take on different roles: We staged materials live on the website while people were watching, other times we structured the chat with messages prepared in advance according to a specific choreography.
+We developed [a one page website](https://r-calc.net/beingturnedoff/) for which we chose texts, videos, images and sounds to be displayed at different times during the lab week. Many of the included works dealt with concepts of time, touch, and the ableisms embedded in the idea of \"staying healthy\". Throughout the week the materials were repeated and reshuffled and we also organized three 2 hour-long chat meetups. Participants could join anonymously via an embedded chat interface while we as facilitators would take on different roles: We staged materials live on the website while people were watching, other times we structured the chat with messages prepared in advance according to a specific choreography. 
 
 <br />
 
@@ -92,7 +92,7 @@ I really find it interesting that in the laboratory definition above it says \"r
 
 <br />
 
-![Another excerpt, black writing on a beige rectangle. This one is taken from an article on ‘skeuomorphi sm’. The text reads: "Skeuomorphism is where an object in software mimics its real world counterpart. The 'trash can' is, perhaps, the most recognizable skeuomorphic object. Though the good old 'save' icon was once skeuomorphic but following the demise of the floppy disc — it no longer bears resemblance to the world of today." The turquoise background shows a pattern of emoji, cute, witchy fingers getting their nails polished.](/img/being-turned-off-skeuo.png)
+![Another excerpt, black writing on a beige rectangle. This one is taken from an article on ‘skeuomorphism’. The text reads: "Skeuomorphism is where an object in software mimics its real world counterpart. The 'trash can' is, perhaps, the most recognizable skeuomorphic object. Though the good old 'save' icon was once skeuomorphic but following the demise of the floppy disc — it no longer bears resemblance to the world of today." The turquoise background shows a pattern of emoji, cute, witchy fingers getting their nails polished.](/img/being-turned-off-skeuo.png)
 *[https://www.interaction-design.org/literature/article/skeuomorphism-is-dead-long-live-skeuomorphism](https://www.interaction-design.org/literature/article/skeuomorphism-is-dead-long-live-skeuomorphism), visited August 25, 2020 [screenshot]*
 
 <br />
@@ -136,7 +136,7 @@ Back in April I got the feeling that our lab participants valued this collective
 
 <br />
 
-One of the things we picked up was that everywhere this phrase of 'stay healthy/bleib gesund' cropped up. And I remember one moment on an activist mailing list where someone rebutted: „Just shut up, I am not healthy, I have a chronic disease so consider the emotional effects of your ableist thoughtlessness." Another important impulse for me was to invent something for people to have a sense of togetherness, at least for a short moment in time. And we chose to include Jonathan Richman's [*I was am dancing in the Lesbian Bar*](https://www.youtube.com/watch?v=XjFU98mEem4) - also as a bittersweet reminder that a lot of queer spaces were hit the hardest with regard to economic survival.
+One of the things we picked up was that everywhere this phrase of 'stay healthy/bleib gesund' cropped up. And I remember one moment on an activist mailing list where someone rebutted: „Just shut up, I am not healthy, I have a chronic disease so consider the emotional effects of your ableist thoughtlessness." Another important impulse for me was to invent something for people to have a sense of togetherness, at least for a short moment in time. And we chose to include Jonathan Richman's [*I was dancing in the Lesbian Bar*](https://www.youtube.com/watch?v=XjFU98mEem4) - also as a bittersweet reminder that a lot of queer spaces were hit the hardest with regard to economic survival.
 
 <br />
 
@@ -170,7 +170,7 @@ The one-week-online-event staged the following works, objects, texts, files:
 * Mp3 audio recording of a sewing machine (\"I\'ve recorded a few sounds\"), captured via a piezo contact microphone
 * Nadja Porsch's document \"Textile information\"
 * [Bini Adamczak, On Circlusion](http://www.maskmagazine.com/the-mommy-issue/sex/circlusion), published in Mask Magazine, \#30, July 2016, as translated by Sophie Lewis
-* [Ipek Burçak's video performance \"Taking a Walk on a Big Sheet of Speculated Forms\"](https://ipekburcak.com/takingawalkonabigsheet.html)
+* [Ipek Burçak's video performance \"Taking a Walk on a Big Sheet of Speculated Forms, 2020\"](https://ipekburcak.com/takingawalkonabigsheet.html)
 
 Some of the images on this page include/quote [Mutant Standard emoji](https://mutant.tech), which are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
