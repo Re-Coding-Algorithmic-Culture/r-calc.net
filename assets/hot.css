@@ -236,17 +236,18 @@ header.index a span { background-color: #808080; }
 header a span { padding: 0 0.2em 0.2em 0.2em; }
 
 #index-background {
-	min-height: 100vh;
+	min-height: 100%;
 	width: 100%;
 	background-color: #000;
 	-webkit-filter: opacity(.5);
   	filter: opacity(.5);
+	 max-height: 100%;
 }
 
 #index-video {
-	position: fixed;
+	position: absolute;
 	right: 0;
-	bottom: 0;
+	top: 0;
 	min-width: 100%;
 	min-height: 100%;
 }
@@ -340,26 +341,32 @@ header a span { padding: 0 0.2em 0.2em 0.2em; }
 	header.index { background-color: #000; font-size: 1em; }
 	header.index a { color: #279b99; }
 	#index-background {
-		position: absolute;
-		min-height: 50rem;
-    	height: 100%;
-    	z-index: -1;
-    	top: 0;
+		min-height: 42em;
 	}
 	#index-video {
-		position: fixed;
+		position: absolute;
 		right: 0;
-		bottom: 0;
+		top: 0;
 		width: auto;
 		height: 100%;
-	}
+	}/*
 	#bucket {
 		margin: 8em 0 14em 0;
+	}*/
+	#bucket {
+		position: absolute;	
+		margin-top: 8em;
+		margin-bottom: 5em;
 	}
 	header.index { position: absolute }
 	header.index a { position: relative; }
 	header.index a span { background: none; }
-	.couch { z-index: 100; }
+	.couch {
+		z-index: 100;
+		position: relative;
+		top: 0 !important;
+		left: 0  !important;
+		}
 	
 	.couch-link {
 		display: inline-block;
